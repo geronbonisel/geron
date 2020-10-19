@@ -112,7 +112,7 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="canal sur andalucia"  group-title="ESPANA",canal sur andalucia
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000_DVR.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="el toro tv"  group-title="ESPANA",el toro tv
 https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
