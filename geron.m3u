@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 10 CANCUN"  group-title="CANCUN",CANAL 10 CANCUN
 http://www.canal10.tv/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 10 CANCUN"  group-title="CANCUN",CANAL 10 CANCUN
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 10"  group-title="CANCUN",CANAL 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIPSE TV CANCUN"  group-title="CANCUN",SIPSE TV CANCUN
@@ -23,9 +23,6 @@ http://listamy.com:8080/jA5ha3vT71/6xCfMWdlwG/94943?play_token=TzuMLjdd2D&token=
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Azteca 7 107"  group-title="MEXICO",Azteca 7 107
 http://listamy.com:8080/jA5ha3vT71/6xCfMWdlwG/94941?play_token=TzuMLjdd2D&token=ShVdWEcMEQ4TXlBSVg0MUgEJBwBVCQYGBg1RUFFXV1QFAQNbUgJXUQFEH0EWQUZRU11uWVMbCABVAFJUAx1AREJSR2ZdABEOE1ABUVADFhgQRFhdUhsIAFIFVFgHBFoICBsXSV0AEQ4TVQRbVRcYFldIRVVFV1NdO1EAF1xSBxMLWUBVWEgRW185VwYIVFpQEAoTARUVEFgXRUdbW0QOXR0VV1BAFlJAVEQJQVcBBAMQHBNTWExcRRZMR1sXfDoTHRVQQUABXUdYCV1BXxdARxAcE1lEZkBUF0EXBFRcB0MTDRcJFkgRWVAebAAKW1pRUURYX1lKEAtGBEdNF1wNX1hDWktrFFpQE1wRUFIFDRZP
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="azteca 1"  group-title="MEXICO",azteca 1
-https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
