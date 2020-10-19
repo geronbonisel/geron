@@ -118,7 +118,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000_DV
 https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine HD"  group-title="CINE",a3cine HD
-http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8?User-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine"  group-title="CINE",a3cine
 http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
@@ -420,9 +420,6 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 MAX TELEFE"  group-title="ARGENTINA",13 MAX TELEFE
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="multivision arg"  group-title="ARGENTINA",multivision arg
-http://panel.dattalive.com:1935/8250/8250/chunklist_w447461462.m3u8
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telefe santa fe arg"  group-title="ARGENTINA",telefe santa fe arg
 http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-p.m3u8?sd=10&rebase=on
 
@@ -512,9 +509,6 @@ http://inliveserver.com:1935/11010/11010/chunklist_w1007499867.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telemas chile"  group-title="CHILE",telemas chile
 https://www.webmedialive.org:1936/8024/8024/chunklist_w1512136622.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telered chile"  group-title="CHILE",telered chile
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telesistema chile"  group-title="CHILE",telesistema chile
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1956595291.m3u8
