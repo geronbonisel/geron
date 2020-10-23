@@ -84,14 +84,26 @@ http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?s
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="ESPANA",Antena 3
 http://cdn2.interlibre.net/hls/149/index.m3u8
 
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena 3 web"  group-title="ESPANA",Antena 3 web
+https://livestartover-i.akamaized.net/antena3/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="cuatro"  group-title="ESPANA",cuatro
 http://62.210.96.38:8080/Cuatro/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="cuatro web"  group-title="ESPANA",cuatro web
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/02.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telecinco"  group-title="ESPANA",Telecinco
 http://cdn2.interlibre.net/hls/190/index.m3u8
 
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telecinco web"  group-title="ESPANA",Telecinco web
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/02.m3u8
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Sexta"  group-title="ESPANA",La Sexta
 http://cdn2.interlibre.net/hls/151/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Sexta web"  group-title="ESPANA",La Sexta web
+https://livestartover-i.akamaized.net/lasexta/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mega"  group-title="ESPANA",Mega
 http://cdn2.interlibre.net/hls/155/index.m3u8
@@ -112,7 +124,7 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="canal sur andalucia"  group-title="ESPANA",canal sur andalucia
-https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000_DVR.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="el toro tv"  group-title="ESPANA",el toro tv
 https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
@@ -162,14 +174,23 @@ http://91.126.141.201:1935/live/ten/.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy"  group-title="ESPANA",Energy
 http://cdn2.interlibre.net/hls/192/index.m3u8
 
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy web"  group-title="ESPANA",Energy web
+https://linear02-i.akamaihd.net/hls/live/837816/energy/02.m3u8
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeMad"  group-title="ESPANA",BeMad
 http://cdn2.interlibre.net/hls/102/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeMad web"  group-title="ESPANA",BeMad web
+http://linear02-i.akamaihd.net/hls/live/837815/bemad/02.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COSMO TV"  group-title="ESPANA",COSMO TV
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FDF"  group-title="ESPANA",FDF
 http://cdn2.interlibre.net/hls/188/index.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FDF web"  group-title="ESPANA",FDF web
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/02.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Divinity"  group-title="ESPANA",Divinity
 http://cdn2.interlibre.net/hls/189/index.m3u8
