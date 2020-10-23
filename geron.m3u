@@ -37,7 +37,7 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w156353
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w211392778_b978000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="canal 14 CDMX"  group-title="MEXICO",canal 14 CDMX
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEXIQUENSE"  group-title="MEXICO",MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -277,7 +277,7 @@ https://reproductor.latin.mx/latin/SRTC/chunklist_w1246804707.m3u8
 https://59d39900ebfb8.streamlock.net/8410/8410/chunklist_w189620973.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="canal 14 CDMX"  group-title="ESTADOS",canal 14 CDMX
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/2a01d801265741e581c396e8ad4fa405/index.m3u8
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MULTIMEDIOS"  group-title="ESTADOS",MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
