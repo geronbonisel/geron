@@ -12,18 +12,6 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIPSE TV MERIDA"  group-title="CANCUN",SIPSE TV MERIDA
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Estrrellas 102"  group-title="MEXICO",Estrrellas 102
-http://listamy.com:8080/jA5ha3vT71/JVKZQu49VE/94944?play_token=yXLLWWX7O6&token=ShVdWEcMEQ4TBVdVVAJRBQMDUlNTXQNUVwEAA1YBBwZXAgxaBAABBVJEH0EWQUZRU11uWVMbCABVAFJUAx1AREJSR2ZdABEOE1ABUVADFhgQRFhdUhsIAFIFVlYDB1IAAhsXSV0AEQ4TVANQVgUWGBBVSURSS1xQCGoBBENYAVQTDVtMWAgfFl4IbAcAWFVaVhILEgYbHhMNRhVDD18XXV0bF1tdEEFVRQMRWUcGAQELEh0SVFZHXxBHHEMPEzdiExsXXEwQVlpCD1wNRw8WQEESHRJeSm1DAUYRE1BQD1RDFQ8bBEYfFlwHSzwGWlpaV1NFWVhXQRNeF1RDGRMPXl9eQVZGO0NdVUQJQVcFBwUGEkw=
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Imagen 103"  group-title="MEXICO",Imagen 103
-http://listamy.com:8080/jA5ha3vT71/JVKZQu49VE/94978?play_token=yXLLWWX7O6&token=ShVdWEcMEQ4TBVdVVAJRBQMDUlNTXQNUVwEAA1YBBwZXAgxaBAABBVJEH0EWQUZRU11uWVMbCABVAFJUAx1AREJSR2ZdABEOE1ABUVADFhgQRFhdUhsIAFIFVlYDB1IAAhsXSV0AEQ4TVANQVgUWGBBVSURSS1xQCGoBBENYAVQTDVtMWAgfFl4IbAcAWFVaVhILEgYbHhMNRhVDD18XXV0bF1tdEEFVRQMRWUcGAQELEh0SVFZHXxBHHEMPEzdiExsXXEwQVlpCD1wNRw8WQEESHRJeSm1DAUYRE1BQD1RDFQ8bBEYfFlwHSzwGWlpaV1NFWVhXQRNeF1RDGRMPXl9eQVZGO0NdVUQJQVcFBwUGEkw=
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5 105"  group-title="MEXICO",Canal 5 105
-http://listamy.com:8080/jA5ha3vT71/JVKZQu49VE/94943?play_token=yXLLWWX7O6&token=ShVdWEcMEQ4TBVdVVAJRBQMDUlNTXQNUVwEAA1YBBwZXAgxaBAABBVJEH0EWQUZRU11uWVMbCABVAFJUAx1AREJSR2ZdABEOE1ABUVADFhgQRFhdUhsIAFIFVlYDB1IAAhsXSV0AEQ4TVANQVgUWGBBVSURSS1xQCGoBBENYAVQTDVtMWAgfFl4IbAcAWFVaVhILEgYbHhMNRhVDD18XXV0bF1tdEEFVRQMRWUcGAQELEh0SVFZHXxBHHEMPEzdiExsXXEwQVlpCD1wNRw8WQEESHRJeSm1DAUYRE1BQD1RDFQ8bBEYfFlwHSzwGWlpaV1NFWVhXQRNeF1RDGRMPXl9eQVZGO0NdVUQJQVcFBwUGEkw=
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Azteca 7 107"  group-title="MEXICO",Azteca 7 107
-http://listamy.com:8080/jA5ha3vT71/JVKZQu49VE/94941?play_token=yXLLWWX7O6&token=ShVdWEcMEQ4TBVdVVAJRBQMDUlNTXQNUVwEAA1YBBwZXAgxaBAABBVJEH0EWQUZRU11uWVMbCABVAFJUAx1AREJSR2ZdABEOE1ABUVADFhgQRFhdUhsIAFIFVlYDB1IAAhsXSV0AEQ4TVANQVgUWGBBVSURSS1xQCGoBBENYAVQTDVtMWAgfFl4IbAcAWFVaVhILEgYbHhMNRhVDD18XXV0bF1tdEEFVRQMRWUcGAQELEh0SVFZHXxBHHEMPEzdiExsXXEwQVlpCD1wNRw8WQEESHRJeSm1DAUYRE1BQD1RDFQ8bBEYfFlwHSzwGWlpaV1NFWVhXQRNeF1RDGRMPXl9eQVZGO0NdVUQJQVcFBwUGEkw=
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
@@ -86,9 +74,6 @@ http://cdn2.interlibre.net/hls/149/index.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena 3 web"  group-title="ESPANA",Antena 3 web
 https://livestartover-i.akamaized.net/antena3/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="cuatro"  group-title="ESPANA",cuatro
-http://62.210.96.38:8080/Cuatro/index.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="cuatro web"  group-title="ESPANA",cuatro web
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/02.m3u8
@@ -1114,51 +1099,6 @@ http://51.15.0.143/live/mag00:1A:79:00:AD:3B/CTfl5DD3NE/67573.ts?play_token=YU86
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:TeleDeporte"  group-title="ip51MAG",ES:TeleDeporte
 http://51.15.0.143/live/mag00:1A:79:00:AD:3B/CTfl5DD3NE/67574.ts?play_token=YU86iLhSsl&token=TRIOB0MKEgMaBgJSVVJbBwUHAgcFV1UIXlFTAQdaAAFQUwMHVlQIWABGTUdCQhFWVQs7DQUQWQYPBVgGSEBHQlNCOQ9UQAobC1ZZUQYUTxFADwkBQwhSBggAUwNQWgMEGhIWD1RAChsKVVBVAxRPEVEeEAETXAJcZ1QEQQ0BVxMMXhMKXE4SVlY7BQBcVw1XFlxGVUMeQVlLQEMNChdeXRoSBA9EEFFNXUZbC0RaDx8WBQsRD0YRSRoKQ3I3QB4TU0gSA14RWVZWRltHRUVBHxYPFzsTVxBESlUAWgEQEAsUAERKEg9RQWcHDgtfUwBHXQkKF0MIQQEaHENaCwxbRVlCORZZBhIDGlZQVQYGQU4=
 
-EXTINF:-1 group-title="Nashya Sport" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png",Bein Sport 1 France
-http://sportmax.xyz/1.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png",Bein Sport 2 France
-http://sportmax.xyz/2.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png",Bein Sport 3 France
-http://sportmax.xyz/3.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 4 max France
-http://sportmax.xyz/10.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 5 max France
-http://sportmax.xyz/11.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 6 max France
-http://sportmax.xyz/12.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 7 max France
-http://sportmax.xyz/13.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 8 max France
-http://sportmax.xyz/14.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 9 max France
-http://sportmax.xyz/15.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max.gif",Bein Sport 10 max France
-http://sportmax.xyz/16.html
-EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png",RMC Sports 1 France
-http://sportmax.xyz/4.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png",RMC Sports 2 France
-http://sportmax.xyz/9.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://static.s-sfr.fr/media/rmc-sport-rvb-sanscadre3x.png",RMC Sports news France
-http://sportmax.xyz/18.html
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.postimg.cc/ZqYsq4NT/CANAL_SPORTS.png",Canal+Sport France
-http://sportmax.xyz/6.html
-EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (ENGLISH) s1
-https://sportzonline.co/channels/hd/hd1.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (ENGLISH) s2
-https://sportzonline.co/channels/hd/hd2.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (ENGLISH) s3
-https://sportzonline.co/channels/hd/hd5.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (SPANISH)
-https://sportzonline.co/channels/hd/hd6.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (GERMAN) s1
-https://sportzonline.co/channels/hd/hd3.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (GERMAN) s2
-https://sportzonline.co/channels/hd/hd4.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (ITALIAN)
-https://sportzonline.co/channels/hd/hd7.php
-#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/ExIOtu8.jpg",Sports & BĐ (TURKISH)
-https://sportzonline.co/channels/hd/hd8.php
-
 #EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein sports 2
 http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="BeinSports",bein sports 3
@@ -1173,85 +1113,51 @@ http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
 http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="BeinSports",bein sports 9
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", Special bein sport extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport01"  group-title="DAILYSPORT",dailysport01
-https://cdo0.dailysport.pw/1/1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s laliga
+http://dx4.gcdn.co/UKS1763/index.m3u8
+EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s grandstand
+http://dx4.gcdn.co/UKS1760/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s psl
+http://dx4.gcdn.co/UKS1761/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s premier league
+http://dx4.gcdn.co/UKS1762/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s football
+http://dx4.gcdn.co/UKS1764/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s variety 1
+http://dx4.gcdn.co/UKS1765/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s variety 2
+http://dx4.gcdn.co/UKS1766/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s variety 3
+http://dx4.gcdn.co/UKS1767/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="S sports ing", s variety 4
+http://dx4.gcdn.co/UKS1768/index.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport02"  group-title="DAILYSPORT",dailysport02
-https://cdo0.dailysport.pw/2/2.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 1HD 
+http://37.48.86.45:8182/OTEsport1/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 2HD 
+http://37.48.86.45:8182/OTEsport2/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 3HD 
+http://37.48.86.45:8182/OTEsport3/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 4HD 
+http://37.48.86.45:8182/OTEsport4/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 5HD 
+http://37.48.86.45:8182/OTEsport5/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 6HD 
+http://37.48.86.45:8182/OTEsport6/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 7HD 
+http://37.48.86.45:8182/OTEsport7/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 8HD 
+http://37.48.86.45:8182/OTEsport8/index.m3u8 
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="OTEsport",OTE SPORT 9HD 
+http://37.48.86.45:8182/OTEsport9/index.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport03"  group-title="DAILYSPORT",dailysport03
-https://cdo0.dailysport.pw/3/3.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport04"  group-title="DAILYSPORT",dailysport04
-https://cdo0.dailysport.pw/4/4.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport05"  group-title="DAILYSPORT",dailysport05
-https://cdo0.dailysport.pw/5/5.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport06"  group-title="DAILYSPORT",dailysport06
-https://cdo0.dailysport.pw/6/6.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport07"  group-title="DAILYSPORT",dailysport07
-https://cdo0.dailysport.pw/7/7.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport08"  group-title="DAILYSPORT",dailysport08
-https://cdo0.dailysport.pw/8/8.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport09"  group-title="DAILYSPORT",dailysport09
-https://cdo0.dailysport.pw/9/9.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport010"  group-title="DAILYSPORT",dailysport010
-https://cdo0.dailysport.pw/10/10.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport011"  group-title="DAILYSPORT",dailysport011
-https://cdo0.dailysport.pw/11/11.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport012"  group-title="DAILYSPORT",dailysport012
-https://cdo0.dailysport.pw/12/12.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport013"  group-title="DAILYSPORT",dailysport013
-https://cdo0.dailysport.pw/13/13.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport014"  group-title="DAILYSPORT",dailysport014
-https://cdo0.dailysport.pw/14/14.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport015"  group-title="DAILYSPORT",dailysport015
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport015"  group-title="DAILYSPORT",dailysport015
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport016"  group-title="DAILYSPORT",dailysport016
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport017"  group-title="DAILYSPORT",dailysport017
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport018"  group-title="DAILYSPORT",dailysport018
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport019"  group-title="DAILYSPORT",dailysport019
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport020"  group-title="DAILYSPORT",dailysport020
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport021"  group-title="DAILYSPORT",dailysport021
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport022"  group-title="DAILYSPORT",dailysport022
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport023"  group-title="DAILYSPORT",dailysport023
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport024"  group-title="DAILYSPORT",dailysport024
-https://cdo0.dailysport.pw/15/15.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dailysport025"  group-title="DAILYSPORT",dailysport025
-https://cdo0.dailysport.pw/15/15.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="la liga bar"  group-title="DEPORTES free",la liga bar
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
@@ -1289,85 +1195,7 @@ http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Varzesh TV 2"  group-title="DEPORTES free",Varzesh TV 2
 http://51.158.176.190/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="TEST" group-title="DEPORTES",FOX SPORTS VN 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="DEPORTES",FOX SPORTS VN 2 (MOTO GP)
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="DEPORTES",FOX SPORTS VN 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 1 pt"  group-title="DEPORTES free",Sport TV 1 pt
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 2 pt"  group-title="DEPORTES free",Sport TV 2 pt
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 3 pt"  group-title="DEPORTES free",Sport TV 3 pt
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 4 pt"  group-title="DEPORTES free",Sport TV 4 pt
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 5 pt"  group-title="DEPORTES free",Sport TV 5 pt
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS HD 1"  group-title="DEPORTES free",TRUESPORTS HD 1
-http://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS HD 2"  group-title="DEPORTES free",TRUESPORTS HD 2
-http://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS HD 3"  group-title="DEPORTES free",TRUESPORTS HD 3
-http://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS HD 4"  group-title="DEPORTES free",TRUESPORTS HD 4
-http://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS SD 5"  group-title="DEPORTES free",TRUESPORTS SD 5
-http://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS SD 6"  group-title="DEPORTES free",TRUESPORTS SD 6
-http://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUESPORTS SD 7"  group-title="DEPORTES free",TRUESPORTS SD 7
-http://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUE PREMIER FOOTBALL HD2"  group-title="DEPORTES free",TRUE PREMIER FOOTBALL HD2
-http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUE PREMIER FOOTBALL HD7"  group-title="DEPORTES free",TRUE PREMIER FOOTBALL HD7
-http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUE GOLF HD"  group-title="DEPORTES free",TRUE GOLF HD
-http://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRUE TENIS HD"  group-title="DEPORTES free",TRUE TENIS HD
-http://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 1"  group-title="DEPORTES free",FOX SPORTS 1
-http://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 2"  group-title="DEPORTES free",FOX SPORTS 2
-http://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX SPORTS 3"  group-title="DEPORTES free",FOX SPORTS 3
-http://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT 1"  group-title="DEPORTES free",BEINSPORT 1
-http://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEINSPORT 2"  group-title="DEPORTES free",BEINSPORT 2
-http://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORT 1 HD"  group-title="DEPORTES free",BT SPORT 1 HD
-http://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORT 2 HD"  group-title="DEPORTES free",BT SPORT 2 HD
-http://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PPTV HD MOTO GP"  group-title="DEPORTES free",PPTV HD MOTO GP
-http://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM"  group-title="DEPORTES free",STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
