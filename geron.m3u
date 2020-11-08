@@ -818,19 +818,6 @@ http://digitalxpress2.gcdn.co/live1/jtennis/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",GOLF CHANNEL
 http://digitalxpress2.gcdn.co/live1/jgolf/index.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="revolucionariotv",euronews ing
-http://tna5.bozztv.com/euronews/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="revolucionariotv",revolucionarios 2
-http://tna5.bozztv.com/LigaSmarbank2/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="revolucionariotv",revolucionarios 3
-http://tna5.bozztv.com/premierleague/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="revolucionariotv",revolucionarios 5
-http://tna5.bozztv.com/daznhd5/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="revolucionariotv",revolucionarios cope
-http://tna5.bozztv.com/cocina/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="revolucionariotv",telecinco
-http://tna5.bozztv.com/telecinco/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM"  group-title="DEPORTES free",STADIUM
