@@ -9,6 +9,18 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="" group-title="RECOMENDADOS",Las Estrellas
+https://blackghost.live/play/totalp1-400.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="" group-title="RECOMENDADOS",Imagen Televisión
+https://blackghost.live/play/totalp1-400.php?c=2606&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="RECOMENDADOS",Canal 5
+https://blackghost.live/play/totalp1-400.php?c=1785&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="RECOMENDADOS",Azteca 7
+https://blackghost.live/play/totalp1-400.php?c=317&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="" group-title="RECOMENDADOS",Nu9ve
+https://blackghost.live/play/totalp1-400.php?c=1783&p=3&k=black&f=.m3u8
+
+
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -97,8 +109,6 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="canal sur andalucia"  group-title="ESPANA",canal sur andalucia
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13tv 91"  group-title="ESPANA",13tv 91
-http://91.126.138.142:1935/live/smil:13tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="el toro tv"  group-title="ESPANA",el toro tv
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMAX"  group-title="ESPANA",DMAX
@@ -109,18 +119,18 @@ http://91.126.141.201:1935/live/kiss/.m3u8
 http://91.126.141.201:1935/live/ten/.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy"  group-title="ESPANA",Energy
 http://cdn2.interlibre.net/hls/192/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy 91"  group-title="ESPANA",Energy web
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy 91"  group-title="ESPANA",Energy 91
 http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeMad"  group-title="ESPANA",BeMad
 http://cdn2.interlibre.net/hls/102/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeMad web"  group-title="ESPANA",BeMad web
-http://linear02-i.akamaihd.net/hls/live/837815/bemad/02.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FDF"  group-title="ESPANA",FDF
 http://cdn2.interlibre.net/hls/188/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Divinity"  group-title="ESPANA",Divinity
 http://cdn2.interlibre.net/hls/189/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRECE"  group-title="ESPANA",TRECE
 http://cdn2.interlibre.net/hls/170/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="trece 91"  group-title="ESPANA",trece 91
+http://91.126.138.142:1935/live/smil:13tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="trece web"  group-title="ESPANA",trece web
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PARLAMENTO"  group-title="ESPANA",PARLAMENTO
