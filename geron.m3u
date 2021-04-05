@@ -100,7 +100,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13tv 91"  group-title="ESPANA",13tv 91
 http://91.126.138.142:1935/live/smil:13tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="el toro tv"  group-title="ESPANA",el toro tv
-http://live1-eltorotv.flumotion.com/playlist.m3u8
+https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMAX"  group-title="ESPANA",DMAX
 http://91.126.141.12:1935/live/discoverymax/.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dkiss"  group-title="ESPANA",dkiss
