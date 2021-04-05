@@ -9,102 +9,6 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 
-#EXTINF:-1 group-title="Lista 23",ESPN
-http://blackghost.live/play/tvghd-400.php?id=espn-en-vivo&f=.m3u8
-#EXTINF:-1 group-title="Lista 23",ESPN 2
-http://blackghost.live/play/tvghd-400.php?id=espn-2-en-vivo&f=.m3u8
-#EXTINF:-1 group-title="Lista 23",ESPN 3
-http://blackghost.live/play/tvghd-400.php?id=espn-3-en-vivo&f=.m3u8
-#EXTINF:-1 group-title="Lista 23",Directv Sports
-http://blackghost.live/play/tvghd-400.php?id=directv-sports-en-vivo&f=.m3u8
-#EXTINF:-1 group-title="Lista 23",Directv Sports 2
-http://blackghost.live/play/tvghd-400.php?id=directv-sports-2-en-vivo&f=.m3u8
-#EXTINF:-1 group-title="Lista 23",Directv Sports Plus
-http://blackghost.live/play/tvghd-400.php?id=directv-sports-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="Lista 23",Bein La Liga
-http://blackghost.live/play/tvghd-400.php?id=bein-la-liga-en-vivo&f=.m3u8
-
-
-#EXTINF:-1 group-title="Lista xtv32",MOVISTAR DEPORTES
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=655
-#EXTINF:-1 group-title="Lista xtv32",MOVISTAR DEPORTES 1
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=26570
-#EXTINF:-1 group-title="Lista xtv32",MOVISTAR F1
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=15708
-#EXTINF:-1 group-title="Lista xtv32",MOVISTAR F1
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=657
-#EXTINF:-1 group-title="Lista xtv32",MOVISTAR LA LIGA (ꜰʜᴅ)
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=659
-#EXTINF:-1 group-title="Lista xtv32",ES: #0 HD
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3633
-#EXTINF:-1 group-title="Lista xtv32",ES: 24 HORAS
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3722
-#EXTINF:-1 group-title="Lista xtv32",ES: A3 SERIES
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3671
-#EXTINF:-1 group-title="Lista xtv32",ES: ANTENA 3
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3642
-#EXTINF:-1 group-title="Lista xtv32",ES: ANTENA 3*
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3720
-#EXTINF:-1 group-title="Lista xtv32",ES: BE MAD
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3719
-#EXTINF:-1 group-title="Lista xtv32",ES: BOING
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3716
-#EXTINF:-1 group-title="Lista xtv32",ES: BOING*
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3715
-#EXTINF:-1 group-title="Lista xtv32",ES: CINCO HD
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3711
-#EXTINF:-1 group-title="Lista xtv32",ES: COSMO TV*
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3710
-#EXTINF:-1 group-title="Lista xtv32",ES: CUATRO*
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3708
-#EXTINF:-1 group-title="Lista xtv32",ES: DE CASA
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3627
-#EXTINF:-1 group-title="Lista xtv32",ES: DIVINITY
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3707
-#EXTINF:-1 group-title="Lista xtv32",ES: ENERGY
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3703
-#EXTINF:-1 group-title="Lista xtv32",ES: EXTREMADURATV
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3699
-#EXTINF:-1 group-title="Lista xtv32",ES: FOX
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=40710
-#EXTINF:-1 group-title="Lista xtv32",ES: GOL
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3599
-#EXTINF:-1 group-title="Lista xtv32",ES: GOLTV
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3649
-#EXTINF:-1 group-title="Lista xtv32",ES: LA 2
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3631
-#EXTINF:-1 group-title="Lista xtv32",ES: LA SEXTA
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3638
-#EXTINF:-1 group-title="Lista xtv32",ES: MEGA
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3646
-#EXTINF:-1 group-title="Lista xtv32",ES: MOVISTAR ACCION
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3659
-#EXTINF:-1 group-title="Lista xtv32",ES: MOVISTAR COMEDIA
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3658
-#EXTINF:-1 group-title="Lista xtv32",ES: MOVISTAR DEPORTES 1
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3657
-#EXTINF:-1 group-title="Lista xtv32",ES: MOVISTAR F1
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3656
-#EXTINF:-1 group-title="Lista xtv32",ES: MOVISTAR GOLF
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3655
-#EXTINF:-1 group-title="Lista xtv32",ES: PEQUE RADIO
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3678
-#EXTINF:-1 group-title="Lista xtv32",ES: RTVE
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3680
-#EXTINF:-1 group-title="Lista xtv32",ES: TELECINCO
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3636
-#EXTINF:-1 group-title="Lista xtv32",ES: TELEVALENCIA 7
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3673
-#EXTINF:-1 group-title="Lista xtv32",ES: TOROS
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3650
-#EXTINF:-1 group-title="Lista xtv32",ES: VIAJAR
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=3644
-#EXTINF:-1 group-title="Lista xtv32",ESPN 1 SUR (ꜰʜᴅ)
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=610
-#EXTINF:-1 group-title="Lista xtv32",ESPN 2 MÉXICO (ꜱᴅ)
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=27553
-#EXTINF:-1 group-title="Lista xtv32",ESPN 2 SUR (ʜᴅ)
-https://blackghost.live/400/tvx.php?opcion=xtv32&c=14869
 
 
 
@@ -178,6 +82,8 @@ http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 https://blackghost.live/play/totalp1-400.php?c=174&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN
 https://blackghost.live/play/totalp1-400.php?c=1049&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",AZTECA CINEMA
+https://blackghost.live/play/wistream-400.php?cat=latinos&ch=aztecacinema&k=black-ghost&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",De Película
 https://blackghost.live/play/totalp1-400.php?c=335&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",De Película Plus
