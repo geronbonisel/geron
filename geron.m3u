@@ -222,42 +222,6 @@ http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 
-#EXTINF:-1 tvg-id=" " group-title="españa2",la1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7d95b804dddbda6.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",la2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/687c41fcf0f6bcb.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",antena3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/c96d4179790c2af.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",la sexta
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9e5ed2b81a043b0.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",estrenos
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/a6ac16259aebc3c.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",accion
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/468abf6de5876cf.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",cine es
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ddec42cd05c901c.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",history
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/fa4c00adaf3e477.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",la liga
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/60db5d8cba015b9.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",liga 123
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",m futbol
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/dfc0eab9e5875fc.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",bein sports
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/7600cb72b04c5da.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",liga campeones
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9a7ec5dc9bd5a35.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",formula 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/e086c5886ceaa0f.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",moto gp
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/ce916bfb15d43f7.m3u8
-#EXTINF:-1 tvg-id=" " group-title="españa2",golf
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/54ff054e0790eb8.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine HD"  group-title="CINE",a3cine HD
 http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine"  group-title="CINE",a3cine
