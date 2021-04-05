@@ -14,11 +14,40 @@ https://blackghost.live/play/totalp1-400.php?c=1784&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="" group-title="RECOMENDADOS",Imagen Televisión
 https://blackghost.live/play/totalp1-400.php?c=2606&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="RECOMENDADOS",Canal 5
-https://blackghost.live/play/totalp1-400.php?c=1785&p=3&k=black&f=.m3u8
+https://blackghost.live/play/totalp1-400.php?c=20&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca1.mx" tvg-name="Azteca 1" tvg-logo="" group-title="RECOMENDADOS",Azteca 1
+https://blackghost.live/play/totalp1-400.php?c=27&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="RECOMENDADOS",Azteca 7
 https://blackghost.live/play/totalp1-400.php?c=317&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="XEQTDT.mx" tvg-name="Nu9ve" tvg-logo="" group-title="RECOMENDADOS",Nu9ve
 https://blackghost.live/play/totalp1-400.php?c=1783&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="" group-title="RECOMENDADOS",Bein Ñ
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (MX)" tvg-logo="" group-title="RECOMENDADOS",TUDN (MX)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="" group-title="RECOMENDADOS",Fox Sports
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="RECOMENDADOS",Fox Sports 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="RECOMENDADOS",ESPN
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="RECOMENDADOS",ESPN 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="TODO ES MAS",MX | ESPN 1 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="TODO ES MAS",MX | ESPN 2 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="MX | ESPN 3 NORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TODO ES MAS",MX | ESPN 3 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="MX | FOX SPORTS 1 NORTE" tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="TODO ES MAS",MX | FOX SPORTS 1 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="MX | FOX SPORTS 2 NORTE" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="TODO ES MAS",MX | FOX SPORTS 2 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="MX | FOX SPORTS 3 NORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="TODO ES MAS",MX | FOX SPORTS 3 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="MX | AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="TODO ES MAS",MX | AFIZZIONADOS
+http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+
 
 
 
