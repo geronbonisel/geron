@@ -13,6 +13,8 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://blackghost.live/play/totalp1-400.php?c=17&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Imagen Televisión
 https://blackghost.live/play/totalp1-400.php?c=2298&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",Imagen Multicast
+https://blackghost.live/play/totalp1-400.php?c=1449&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Canal 5
 https://blackghost.live/play/totalp1-400.php?c=20&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Azteca 1
@@ -21,7 +23,9 @@ https://blackghost.live/play/totalp1-400.php?c=27&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-400.php?c=322&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Azteca +
 https://blackghost.live/play/totalp1-400.php?c=2316&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Nu9ve
+#EXTINF:-1 group-title="MEXICO 2",Nu9ve HD
+https://blackghost.live/play/totalp1-400.php?c=24&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",NU9VE
 https://blackghost.live/play/totalp1-400.php?c=1783&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Unicable
 https://blackghost.live/play/totalp1-400.php?c=1499&p=3&k=black&f=.m3u8
@@ -31,12 +35,8 @@ https://blackghost.live/play/totalp1-400.php?c=2305&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-400.php?c=19&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Teleformula
 https://blackghost.live/play/totalp1-400.php?c=32&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",TeleFórmula 2
-https://blackghost.live/play/zufree-400.php?c=350&f=.ts
 #EXTINF:-1 group-title="MEXICO 2",Milenio tv
 https://blackghost.live/play/totalp1-400.php?c=1252&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Milenio TV 2
-https://blackghost.live/play/zufree-400.php?c=327&f=.ts
 #EXTINF:-1 group-title="MEXICO 2",ADN 40
 https://blackghost.live/play/totalp1-400.php?c=40&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TVC
@@ -47,53 +47,38 @@ https://blackghost.live/play/totalp1-400.php?c=187&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-400.php?c=194&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",El Financiero Bloomberg
 https://blackghost.live/play/totalp1-400.php?c=1649&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Ñ" tvg-logo="" group-title="RECOMENDADOS",Bein Sports Latino en vivo Online
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=beinlatino&k=black-ghost&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (MX)" tvg-logo="" group-title="RECOMENDADOS",TUDN (MX)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/290/12?f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="" group-title="RECOMENDADOS",Fox Sports
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97910/12?f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="" group-title="RECOMENDADOS",Fox Sports 2
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97909/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="" group-title="RECOMENDADOS",ESPN
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97908/12?f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="" group-title="RECOMENDADOS",ESPN 2
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97926/12?f=.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="TODO ES MAS",MX | ESPN 1 NORTE
+#EXTINF:-1 group-title="MEXICO 2",ESPN 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
-ESPN
+#EXTINF:-1 group-title="MEXICO 2",ESPN
 https://blackghost.live/play/totalp1-400.php?c=169&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="TODO ES MAS",MX | ESPN 2 NORTE
+#EXTINF:-1 group-title="MEXICO 2",ESPN 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
-ESPN 2
+#EXTINF:-1 group-title="MEXICO 2",ESPN 2
 https://blackghost.live/play/totalp1-400.php?c=168&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="MX | ESPN 3 NORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TODO ES MAS",MX | ESPN 3 NORTE
+#EXTINF:-1 group-title="MEXICO 2",ESPN 3 NORTE
 http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
-ESPN 3
+#EXTINF:-1 group-title="MEXICO 2",ESPN 3
 https://blackghost.live/play/totalp1-400.php?c=345&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="MX | FOX SPORTS 1 NORTE" tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="TODO ES MAS",MX | FOX SPORTS 1 NORTE
+#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 1 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-Fox Sports
+#EXTINF:-1 group-title="MEXICO 2",Fox Sports
 https://blackghost.live/play/totalp1-400.php?c=170&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="MX | FOX SPORTS 2 NORTE" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="TODO ES MAS",MX | FOX SPORTS 2 NORTE
+#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2 NORTE
 http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-Fox Sports 2
+#EXTINF:-1 group-title="MEXICO 2",Fox Sports 2
 https://blackghost.live/play/totalp1-400.php?c=172&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="MX | FOX SPORTS 3 NORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="TODO ES MAS",MX | FOX SPORTS 3 NORTE
-http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u
-Fox Sports 3
+#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 2",Fox Sports 3
 https://blackghost.live/play/totalp1-400.php?c=178&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="MX | AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1200px-Afizzionados_Logo.svg.png" group-title="TODO ES MAS",MX | AFIZZIONADOS
+#EXTINF:-1 group-title="MEXICO 2",AFIZZIONADOS
 http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 2",TUDN
+http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN (HD)
 https://blackghost.live/play/totalp1-400.php?c=174&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN
 https://blackghost.live/play/totalp1-400.php?c=1049&p=3&k=black&f=.m3u8
-
-
-
 #EXTINF:-1 group-title="MEXICO 2",De Película
 https://blackghost.live/play/totalp1-400.php?c=335&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",De Película Plus
