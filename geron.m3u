@@ -722,6 +722,34 @@ http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
 http://matiasstornini00.shortcm.li/shio1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",shio2
 http://matiasstornini00.shortcm.li/shio2.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",PREMIERE br
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",PREMIERE SPORTS 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",ESPN BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",FOX SPORT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",SPORTV 1 br
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",SPORTV 3 br
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",TNT sport br
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",GLOBO
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",BBB
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlis.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport1
+http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport2
+http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport3
+http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport4
+http://stream.tvtap.live:8081/live/arena4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport5
+http://stream.tvtap.live:8081/live/arena5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",MACH 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",MACH 2 HD
