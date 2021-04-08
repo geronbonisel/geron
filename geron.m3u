@@ -739,7 +739,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",GLOBO
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",BBB
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlis.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",arena sport1
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",arena sport2
