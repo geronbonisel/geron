@@ -693,21 +693,12 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 
 
-
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"BEIN SPORTS N
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 tvg-id=" " group-title="Sports",a liga shio1
+http://matiasstornini00.shortcm.li/shio1.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",shio2
+http://matiasstornini00.shortcm.li/shio2.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",la liga
@@ -720,10 +711,6 @@ http://31.220.41.86:8081/live/es-movistar-deportes.stream/playlist.m3u8
 http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",la liga1 ip31
 http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",a liga shio1
-http://matiasstornini00.shortcm.li/shio1.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",shio2
-http://matiasstornini00.shortcm.li/shio2.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",PREMIERE br
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",PREMIERE SPORTS 2
@@ -742,6 +729,92 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",BBB
 https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"satanta sports1hd
+http://91.231.200.2:9000/play/ch_181/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"satanta sports1
+http://91.231.200.2:9000/play/ch_182/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"satanta sports1 ops2
+https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"satanta sports2
+http://91.231.200.2:9000/play/ch_183/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"BEIN SPORTS PREMIUM 1
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"BEIN SPORTS PREMIUM 2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"EUROSPORT 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"EUROSPORT 2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"SkynetsportHD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"Skynetsport1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"Skynetsport2 la liga
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"Skynetsport3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"Skynetsport4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"Skynetsport5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"Skynetsport6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport1
+http://77.83.117.60:8888/02_sport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport2
+http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport3
+http://77.83.117.60:8888/02_sport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport4
+http://77.83.117.60:8888/02_sport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport5
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport6
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"true sport7
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",SkynetsportHD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport2 la liga
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport1
+http://77.83.117.60:8888/02_sport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport2
+http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport3
+http://77.83.117.60:8888/02_sport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport4
+http://77.83.117.60:8888/02_sport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport5
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport6
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",sport7
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",arena sport1
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",arena sport2
@@ -766,6 +839,25 @@ https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
 https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",MATCH 3 FUTBOL RU
 https://95-213-224-180.livesports24.online/football3ua.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 1
+http://cdn.addressingethernet.xyz/hls/101.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 2
+http://cdn.addressingethernet.xyz/hls/102.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 3
+http://cdn.addressingethernet.xyz/hls/103.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 4
+http://cdn.addressingethernet.xyz/hls/104.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 5
+http://cdn.addressingethernet.xyz/hls/105.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 6
+http://cdn.addressingethernet.xyz/hls/106.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 7
+http://cdn.addressingethernet.xyz/hls/107.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 8
+http://cdn.addressingethernet.xyz/hls/108.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports"canal 9
+http://cdn.addressingethernet.xyz/hls/109.m3u8
+
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STADIUM"  group-title="DEPORTES free",STADIUM
