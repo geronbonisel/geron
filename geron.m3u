@@ -787,20 +787,6 @@ http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport7
 http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",SkynetsportHD
-http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport2 la liga
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport6
-http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",arena sport1
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",arena sport2
