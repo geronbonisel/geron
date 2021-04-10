@@ -695,14 +695,12 @@ http://cdn.adultiptv.net/threesome.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Sports",BEIN SPORTS N
 http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:-1 tvg-id=" " group-title="Sports",a liga shio1
+#EXTINF:-1 tvg-id=" " group-title="Sports",La liga shio1
 http://matiasstornini00.shortcm.li/shio1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",shio2
 http://matiasstornini00.shortcm.li/shio2.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",la liga
-http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",la liga bar
 http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",m-deportes
@@ -743,8 +741,14 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Sports",ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports1hd
 http://91.231.200.2:9000/play/ch_181/index.m3u8
+http://91.231.200.2:9000/play/ch_182/index.m3u8
+https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports1
 http://91.231.200.2:9000/play/ch_182/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports1 ops2
@@ -774,13 +778,13 @@ http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport6
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport1
-http://77.83.117.60:8888/02_sport1_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport2
-http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport3
-http://77.83.117.60:8888/02_sport3_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport4
-http://77.83.117.60:8888/02_sport4_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport5
 http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Sports",true sport6
@@ -831,6 +835,48 @@ http://cdn.addressingethernet.xyz/hls/108.m3u8
 http://cdn.addressingethernet.xyz/hls/109.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",INFOSPORT +
+http://178.132.1.25:8080/INFOSPORTPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS 1 HD
+http://178.132.1.25:8080/BEINSPORTS1HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS 2 HD
+http://178.132.1.25:8080/BEINSPORTS2HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS 3 HD
+http://178.132.1.25:8080/BEINSPORTS3HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS MAX 4
+http://178.132.1.25:8080/BEINMAX4HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS MAX 5
+http://178.132.1.25:8080/BEINMAX5HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS MAX 6
+http://178.132.1.25:8080/BEINMAX6HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS MAX 7
+http://178.132.1.25:8080/BEINMAX7HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS MAX 8
+http://178.132.1.25:8080/BEINMAX8HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORTS MAX 9
+http://178.132.1.25:8080/BEINMAX9HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",BEIN SPORT MAX 10
+http://178.132.1.25:8080/BEINMAX10HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",MULTISPORT 1
+http://178.132.1.25:8080/MULTISPORTS1HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",MULTISPORT 2
+http://178.132.1.25:8080/MULTISPORTS2HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",MULTISPORT 3
+http://178.132.1.25:8080/MULTISPORTS3HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",MULTISPORT 4
+http://178.132.1.25:8080/MULTISPORTS4HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",MULTISPORT 5
+http://178.132.1.25:8080/MULTISPORTS5HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",MULTISPORT 6
+http://178.132.1.25:8080/MULTISPORTS6HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",RMC SPORT 1
+http://178.132.1.25:8080/RMCSPORT1HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",RMC SPORT 2
+http://178.132.1.25:8080/RMCSPORT2HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="DEPORTES FRANCIA",RMC SPORT 3
+http://178.132.1.25:8080/RMCSPORT3HD/index.m3u8
 
 
 
