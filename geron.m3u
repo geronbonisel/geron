@@ -13,87 +13,77 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 
 #EXTINF:-1 group-title="MEXICO 2",Las Estrellas
-https://blackghost.live/play/totalp1-400.php?c=17&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=17&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Imagen Televisión
-https://blackghost.live/play/totalp1-400.php?c=2298&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2298&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Imagen Multicast
-https://blackghost.live/play/totalp1-400.php?c=1449&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Canal 5
-https://blackghost.live/play/totalp1-400.php?c=20&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=20&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Azteca 1
-https://blackghost.live/play/totalp1-400.php?c=27&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Azteca 7
-https://blackghost.live/play/totalp1-400.php?c=322&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=21&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Azteca +
-https://blackghost.live/play/totalp1-400.php?c=2316&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Nu9ve HD
-https://blackghost.live/play/totalp1-400.php?c=24&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NU9VE
-https://blackghost.live/play/totalp1-400.php?c=1783&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=24&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Unicable
-https://blackghost.live/play/totalp1-400.php?c=1499&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1499&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Canal 6 Monterrey
-https://blackghost.live/play/totalp1-400.php?c=2305&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2305&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Foro TV
-https://blackghost.live/play/totalp1-400.php?c=19&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=19&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Teleformula
-https://blackghost.live/play/totalp1-400.php?c=32&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Milenio tv
-https://blackghost.live/play/totalp1-400.php?c=1252&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ADN 40
-https://blackghost.live/play/totalp1-400.php?c=40&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=40&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",TVC
-https://blackghost.live/play/totalp1-400.php?c=2156&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",CNN En Español
-https://blackghost.live/play/totalp1-400.php?c=187&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=187&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NTN 24
-https://blackghost.live/play/totalp1-400.php?c=194&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=194&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",El Financiero Bloomberg
-https://blackghost.live/play/totalp1-400.php?c=1649&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",ESPN +
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",ESPN 1 NORTE
-http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",ESPN
-https://blackghost.live/play/totalp1-400.php?c=169&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=168&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN 2 NORTE
-http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",ESPN 2
-https://blackghost.live/play/totalp1-400.php?c=168&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=169&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN 3 NORTE
-http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",ESPN 3
-https://blackghost.live/play/totalp1-400.php?c=345&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=345&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 1 NORTE
-http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Fox Sports
-https://blackghost.live/play/totalp1-400.php?c=170&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=170&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2 NORTE
-http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Fox Sports 2
-https://blackghost.live/play/totalp1-400.php?c=172&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=172&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 NORTE
-http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Fox Sports 3
-https://blackghost.live/play/totalp1-400.php?c=178&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=178&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",AFIZZIONADOS
 http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN (HD)
-https://blackghost.live/play/totalp1-400.php?c=174&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=174&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TUDN
-https://blackghost.live/play/totalp1-400.php?c=1049&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",AZTECA CINEMA
-https://blackghost.live/play/wistream-400.php?cat=latinos&ch=aztecacinema&k=black-ghost&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",De Película
-https://blackghost.live/play/totalp1-400.php?c=335&p=3&k=black&f=.m3u8
+hhttp://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=335&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",De Película Plus
-https://blackghost.live/play/totalp1-400.php?c=121&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=121&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Golden Plus
-https://blackghost.live/play/totalp1-400.php?c=122&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Golden
-https://blackghost.live/play/totalp1-400.php?c=123&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Golden Edge
-https://blackghost.live/play/totalp1-400.php?c=124&p=3&k=black&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 
 
 
@@ -698,137 +688,136 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 
 
-#EXTINF:-1 tvg-id=" " group-title="Sports",BEIN SPORTS N
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:-1 tvg-id=" " group-title="Sports",La liga shio1
+
+#EXTINF:-1 tvg-id=" " group-title="Deportes",futbol shio1
 http://matiasstornini00.shortcm.li/shio1.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",shio2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",futbol shio2
 http://matiasstornini00.shortcm.li/shio2.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",TUDN
+#EXTINF:-1 tvg-id=" " group-title="Deportes",TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",la liga bar
+#EXTINF:-1 tvg-id=" " group-title="Deportes",la liga bar
 http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",m-deportes
+#EXTINF:-1 tvg-id=" " group-title="Deportes",m-deportes
 http://31.220.41.86:8081/live/es-movistar-deportes.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",la liga ip31
+#EXTINF:-1 tvg-id=" " group-title="Deportes",la liga ip31
 http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",la liga1 ip31
+#EXTINF:-1 tvg-id=" " group-title="Deportes",la liga1 ip31
 http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",PREMIERE br
+#EXTINF:-1 tvg-id=" " group-title="Deportes",PREMIERE br
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",PREMIERE SPORTS 2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",PREMIERE SPORTS 2
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",ESPN BRASIL
+#EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN BRASIL
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",FOX SPORT
+#EXTINF:-1 tvg-id=" " group-title="Deportes",FOX SPORTS
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",SPORTV 1 br
+#EXTINF:-1 tvg-id=" " group-title="Deportes",SPORTV 1 br
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",SPORTV 3 br
+#EXTINF:-1 tvg-id=" " group-title="Deportes",SPORTV 3 br
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Sport TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Sport TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Sport TV 4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Sport TV 5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Sport TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",BTSPORTHD_1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",BTSPORTHD_2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",BTSPORTHD_2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id=" " group-title="Deportes",ELEVEN SPORTS 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id=" " group-title="Deportes",ELEVEN SPORTS 2 HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports1hd
+#EXTINF:-1 tvg-id=" " group-title="Deportes",satanta sports1hd
 http://91.231.200.2:9000/play/ch_181/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",satanta sports1
 http://91.231.200.2:9000/play/ch_182/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports1 ops2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",satanta sports1 ops2
 https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",satanta sports2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",satanta sports2
 http://91.231.200.2:9000/play/ch_183/index.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",BEIN SPORTS PREMIUM 1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",BEIN SPORTS PREMIUM 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",BEIN SPORTS PREMIUM 2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",BEIN SPORTS PREMIUM 2
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",EUROSPORT 1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",EUROSPORT 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",EUROSPORT 2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",EUROSPORT 2
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",SkynetsportHD
+#EXTINF:-1 tvg-id=" " group-title="Deportes",SkynetsportHD
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Skynetsport1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport2 la liga
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Skynetsport2 la liga
 http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Skynetsport3
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Skynetsport4
 http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Skynetsport5
 http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",Skynetsport6
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Skynetsport6
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport2
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport5
 http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport6
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport6
 http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",true sport7
+#EXTINF:-1 tvg-id=" " group-title="Deportes",true sport7
 http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport1
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport2
 http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport3
 http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport4
 http://stream.tvtap.live:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",arena sport5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport5
 http://stream.tvtap.live:8081/live/arena5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MACH 1 HD
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MACH 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MACH 2 HD
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MACH 2 HD
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MACH 3 HD
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MACH 3 HD
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MATCH 1 RU
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 1 RU
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MATCH 2 LA LIGA RU
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 2 LA LIGA RU
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MATCH 2 LA LIGA RU2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 2 LA LIGA RU2
 https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",MATCH 3 FUTBOL RU
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 3 FUTBOL RU
 https://95-213-224-180.livesports24.online/football3ua.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 1
 http://cdn.addressingethernet.xyz/hls/101.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 2
 http://cdn.addressingethernet.xyz/hls/102.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 3
 http://cdn.addressingethernet.xyz/hls/103.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 4
 http://cdn.addressingethernet.xyz/hls/104.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 5
 http://cdn.addressingethernet.xyz/hls/105.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 6
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 6
 http://cdn.addressingethernet.xyz/hls/106.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 7
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 7
 http://cdn.addressingethernet.xyz/hls/107.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 8
 http://cdn.addressingethernet.xyz/hls/108.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Sports",canal 9
+#EXTINF:-1 tvg-id=" " group-title="Deportes",canal 9
 http://cdn.addressingethernet.xyz/hls/109.m3u8
 
 
