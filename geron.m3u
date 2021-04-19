@@ -39,77 +39,183 @@ https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 
 #EXTINF:-1 group-title="MEXICO 2",Las Estrellas
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=17&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Imagen Televisión
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2298&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Imagen Multicast
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Canal 5
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=20&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Azteca 1
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=7&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Azteca 7
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=21&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=21&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Azteca +
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Nu9ve HD
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NU9VE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=24&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=24&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Unicable
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1499&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Canal 6 Monterrey
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2305&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Foro TV
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=19&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Teleformula
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",Milenio tv
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ADN 40
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=40&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",TVC
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",CNN En Español
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=187&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=187&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NTN 24
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=194&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",El Financiero Bloomberg
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN +
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=167&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",ESPN 1 NORTE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=168&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN 2 NORTE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=169&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=169&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN 3 NORTE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=345&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=345&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 1 NORTE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=170&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=170&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2 NORTE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=172&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=172&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 NORTE
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=178&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",AFIZZIONADOS
 http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
 #EXTINF:-1 group-title="MEXICO 2",TUDN (HD)
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=174&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TUDN
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",AZTECA CINEMA
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",De Película
-hhttp://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=335&p=3&k=srregio&f=.m3u8  
+hhttp://ipeteve.com/php/SR_REGIO_281119/tp.php?c=335&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",De Película Plus
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=121&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Golden Plus
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Golden
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",Golden Edge
-http://ipeteve.com/php/REGIO_PLAY_281119/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 group-title="MEXICO 3",a&e
+http://balancer1.ottmex.com:8081/tecno/AyE.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",antena series
+http://balancer1.ottmex.com:8081/BKR/AntenaSeries.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",E!
+http://balancer1.ottmex.com:8081/BKR/Eentertainment.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",fox life
+http://balancer1.ottmex.com:8081/BKR/Foxlife.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",más chic
+http://balancer1.ottmex.com:8081/BKR/MasChic.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",sony
+http://balancer1.ottmex.com:8081/tecno/Sony.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",studio universal
+http://balancer1.ottmex.com:8081/BKR/StudioUniversal.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",telemundo internacional
+http://balancer1.ottmex.com:8081/BKR/Telemundoint.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",warner
+http://balancer1.ottmex.com:8081/BKR/Warner.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",distrito comedia
+http://balancer1.ottmex.com:8081/tecno/Distritocomedia.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",fox
+http://balancer1.ottmex.com:8081/BKR/Fox.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",tnt series
+http://balancer1.ottmex.com:8081/BKR/TNT_Series.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",tnt
+http://balancer1.ottmex.com:8081/BKR/Tnt.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",hbo
+http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",hbo 2
+http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",hbo plus
+http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",hbo signature
+http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",hbo family
+http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",Fox premium action
+http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",Fox series
+http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",Fox family
+http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",Golden premier
+http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",life time
+http://balancer1.ottmex.com:8081/BKR/LifeTime.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",hgtv
+http://balancer1.ottmex.com:8081/BKR/HGTV.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",gourmet
+http://balancer1.ottmex.com:8081/BKR/Gourmet.TecnoByre/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",history channel
+http://balancer1.ottmex.com:808/BKR/HistoryChann.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",natgeo wild
+http://balancer1.ottmex.com:8081/BKR/NatgeoWild.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",animal planet
+http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",discovery channel
+http://balancer1.ottmex.com:8081/BKR/DiscoveryChannel.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",discovery H&H
+http://balancer1.ottmex.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",DISCOVERY theater
+http://balancer1.ottmex.com:8081/BKR/Discovery_Theater.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",discovery science
+http://balancer1.ottmex.com:8081/BKR/DiscoverySci.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",discovery turbo
+http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",discovery world
+http://balancer1.ottmex.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",discovery id
+http://balancer1.ottmex.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",diseny jr
+http://balancer1.ottmex.com:8081/BKR/DisneyJR.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",disney channel
+http://balancer1.ottmex.com:8081/BKR/Disneychann.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",disney xd
+http://balancer1.ottmex.com:8081/BKR/DisneyXD.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",cartoon Network
+http://balancer1.ottmex.com:8081/BKR/CartoonNetwork/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",tooncast
+http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",nicktoons
+http://balancer1.ottmex.com:8081/tecno/Nicktoons.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",baby tv
+http://balancer1.ottmex.com:8081/tecno/Babytv.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",tudn
+http://balancer1.ottmex.com:8081/BKR/tdn.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",espn
+http://balancer1.ottmex.com:8081/BKR/Espn1.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",espn 2
+http://balancer1.ottmex.com:8081/BKR/Espn2.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",espn 3
+http://balancer1.ottmex.com:8081/BKR/Espn3.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",espn plus
+http://balancer1.ottmex.com:8081/BKR/Espn+.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",fox sports
+http://balancer1.ottmex.com:8081/BKR/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",fox sports 2
+http://balancer1.ottmex.com:8081/BKR/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",fox sports 3
+http://balancer1.ottmex.com:8081/BKR/FoxSports3.BKR/chunks.m3u8
+#EXTINF:-1 group-title="MEXICO 3",afizzionados
+http://balancer1.ottmex.com:8081/BKR/Afizzionados.BKR/chunks.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h"  group-title="ESPANA",24h
@@ -117,7 +223,9 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h 576"  group-title="ESPANA",24h 576
 http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD2
+http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA1"  group-title="ESPANA",LA1
 http://cdn2.interlibre.net/hls/464/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="la1 91"  group-title="ESPANA",la1 91
@@ -163,7 +271,7 @@ http://cdn2.interlibre.net/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RM TV"  group-title="ESPANA",RM TV
 http://cdn2.interlibre.net/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telemadrid"  group-title="ESPANA",telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/master.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVG EU HD"  group-title="ESPANA",TVG EU HD
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVG AM HD"  group-title="ESPANA",TVG AM HD
@@ -172,6 +280,8 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="el toro tv"  group-title="ESPANA",el toro tv
 https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="ESPANA",fibwi
+http://109.232.71.249/fibwiLIVE_movil/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMAX"  group-title="ESPANA",DMAX
 http://91.126.141.12:1935/live/discoverymax/.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="dkiss"  group-title="ESPANA",dkiss
