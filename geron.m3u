@@ -37,186 +37,112 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="teleformula"  group-title="MEXICO",teleformula
 https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-
-#EXTINF:-1 group-title="MEXICO 2",Las Estrellas
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=17&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",Imagen Televisión
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2298&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Imagen Multicast
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",Canal 5
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=20&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",Azteca 1
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Azteca 7
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=21&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",Azteca +
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",Nu9ve HD
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1783&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",NU9VE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=24&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Unicable
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1499&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Canal 6 Monterrey
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2305&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",Foro TV
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",Teleformula
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8 
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",Milenio tv
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ADN 40
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",TELEFORMULA SD
+http://tecnotv.club/pop/geomex.php?c=32&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",MILENIO HD
+http://tecnotv.club/pop/geomex.php?c=1250&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",EXCELSIOR TV
+http://tecnotv.club/pop/geomex.php?c=1449&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",EL FINANCIERO HD 
+http://tecnotv.club/pop/geomex.php?c=1649&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",FOROTV HD
+http://tecnotv.club/pop/geomex.php?c=4&p=3&k=tecnoplay&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",ADN 40 HD
+http://tecnotv.club/pop/geomex.php?c=184&p=3&k=tecnoplay&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TVC
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",CNN En Español
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=187&p=3&k=srregio&f=.m3u8
+http://tecnotv.club/pop/geomex.php?c=2156&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",CNN
+http://tecnotv.club/pop/geomex.php?c=185&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",CNN Ñ SD
+http://tecnotv.club/pop/geomex.php?c=187&p=3&k=tecnoplay&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NTN 24
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=194&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",El Financiero Bloomberg
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ESPN +
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",ESPN 1 NORTE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ESPN 2 NORTE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=169&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ESPN 3 NORTE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 1 NORTE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2 NORTE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 NORTE
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=178&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",AFIZZIONADOS
-http://balancer1.ottmex.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+http://tecnotv.club/pop/geomex.php?c=194&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",LAS ESTRELLAS HD
+http://tecnotv.club/pop/geomex.php?c=1784&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",CANAL 5 HD
+http://tecnotv.club/pop/geomex.php?c=1785&p=3&k=tecnoplay&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",NU9VE HD
+http://tecnotv.club/pop/geomex.php?c=1783&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",AZTECA UNO HD
+http://tecnotv.club/pop/geomex.php?c=7&p=3&k=tecnoplay&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",AZTECA 7 HD 
+http://tecnotv.club/pop/geomex.php?c=317&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",IMAGEN TV HD  
+http://tecnotv.club/pop/geomex.php?c=2606&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",MULTIMEDIOS HD
+http://tecnotv.club/pop/geomex.php?c=2882&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",ONCE HD 
+http://tecnotv.club/pop/geomex.php?c=1942&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",A+ 
+http://tecnotv.club/pop/geomex.php?c=2316&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",AZ CLIC HD
+http://tecnotv.club/pop/geomex.php?c=11&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",MVS TV
+http://tecnotv.club/pop/geomex.php?c=2149&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",CANAL 4 
+http://tecnotv.club/pop/geomex.php?c=2274&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",CANAL 8
+http://tecnotv.club/pop/geomex.php?c=2307&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",TELEVISA PUEBLA
+http://tecnotv.club/pop/geomex.php?c=2312&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",TVMAS
+http://tecnotv.club/pop/geomex.php?c=2324&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",UNICABLE
+http://tecnotv.club/pop/geomex.php?c=1499&p=3&k=tecnoplay&f=.m3u8   
+#EXTINF:-1 group-title="MEXICO 2",TELEMUNDO INTERNACIONAL
+http://tecnotv.club/pop/geomex.php?c=85&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",TVE america
+http://tecnotv.club/pop/geomex.php?c=198&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",STAR TVE 
+http://tecnotv.club/pop/geomex.php?c=2375&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",ANTENA 3 america
+http://tecnotv.club/pop/geomex.php?c=199&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",A3CINE 
+http://tecnotv.club/pop/geomex.php?c=3112&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",AZ CINEMA 
+http://tecnotv.club/pop/geomex.php?c=1787&p=3&k=tecnoplay&f=.m3u8
+#EXTINF:-1 group-title="MEXICO 2",DE PELICULA + 
+http://tecnotv.club/pop/geomex.php?c=121&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",DE PELICULA SD
+http://tecnotv.club/pop/geomex.php?c=335&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",GOLDEN +
+http://tecnotv.club/pop/geomex.php?c=122&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",GOLDEN
+http://tecnotv.club/pop/geomex.php?c=123&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",GOLDEN EDGE
+http://tecnotv.club/pop/geomex.php?c=124&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",HISTORY
+http://tecnotv.club/pop/geomex.php?c=89&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",DISCOVERY CHANNEL
+http://tecnotv.club/pop/geomex.php?c=86&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",DISCOVERY TURBO
+http://tecnotv.club/pop/geomex.php?c=2379&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",DISCOVERY SCIENCE  
+http://tecnotv.club/pop/geomex.php?c=98&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",DISCOVERY CIVILIZATION
+http://tecnotv.club/pop/geomex.php?c=99&p=3&k=tecnoplay&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TUDN
-http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 2",TUDN (HD)
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",TUDN
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",AZTECA CINEMA
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",De Película
-hhttp://ipeteve.com/php/SR_REGIO_281119/tp.php?c=335&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",De Película Plus
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=121&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",Golden Plus
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",Golden
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",Golden Edge
-http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=124&p=3&k=srregio&f=.m3u8 
-
-#EXTINF:-1 group-title="totalplay",a&e
-http://balancer1.ottmex.com:8081/tecno/AyE.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",antena series
-http://balancer1.ottmex.com:8081/tecno/AntenaSeries.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",E!
-http://balancer1.ottmex.com:8081/tecno/Eentertainment.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",fox life
-http://balancer1.ottmex.com:8081/tecno/Foxlife.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",más chic
-http://balancer1.ottmex.com:8081/tecno/MasChic.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",sony
-http://balancer1.ottmex.com:8081/tecno/Sony.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",studio universal
-http://balancer1.ottmex.com:8081/tecno/StudioUniversal.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",telemundo internacional
-http://balancer1.ottmex.com:8081/tecno/Telemundoint.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",warner
-http://balancer1.ottmex.com:8081/tecno/Warner.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",distrito comedia
-http://balancer1.ottmex.com:8081/tecno/Distritocomedia.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",fox
-http://balancer1.ottmex.com:8081/tecno/Fox.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",tnt series
-http://balancer1.ottmex.com:8081/tecno/TNT_Series.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",tnt
-http://balancer1.ottmex.com:8081/tecno/Tnt.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",hbo
-http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",hbo 2
-http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",hbo plus
-http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",hbo signature
-http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",hbo family
-http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",Fox premium action
-http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",Fox series
-http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",Fox family
-http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",Golden premier
-http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",life time
-http://balancer1.ottmex.com:8081/tecno/LifeTime.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",hgtv
-http://balancer1.ottmex.com:8081/tecno/HGTV.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",gourmet
-http://balancer1.ottmex.com:8081/tecno/Gourmet.TecnoByre/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",history channel
-http://balancer1.ottmex.com:808/tecno/HistoryChann.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",natgeo wild
-http://balancer1.ottmex.com:8081/tecno/NatgeoWild.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",animal planet
-http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",discovery channel
-http://balancer1.ottmex.com:8081/tecno/DiscoveryChannel.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",discovery H&H
-http://balancer1.ottmex.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",DISCOVERY theater
-http://balancer1.ottmex.com:8081/tecno/Discovery_Theater.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",discovery science
-http://balancer1.ottmex.com:8081/tecno/DiscoverySci.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",discovery turbo
-http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",discovery world
-http://balancer1.ottmex.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",discovery id
-http://balancer1.ottmex.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",diseny jr
-http://balancer1.ottmex.com:8081/tecno/DisneyJR.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",disney channel
-http://balancer1.ottmex.com:8081/tecno/Disneychann.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",disney xd
-http://balancer1.ottmex.com:8081/tecno/DisneyXD.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",cartoon Network
-http://balancer1.ottmex.com:8081/tecno/CartoonNetwork.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",tooncast
-http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",nicktoons
-http://balancer1.ottmex.com:8081/tecno/Nicktoons.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",baby tv
-http://balancer1.ottmex.com:8081/tecno/Babytv.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",tudn
-http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
-http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",espn
-http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",espn 2
-http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",espn 3
-http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",espn plus
-http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",fox sports
-http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",fox sports 2
-http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",fox sports 3
-http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="totalplay",afizzionados
-http://balancer1.ottmex.com:8081/tecno/Afizzionados.BKR/chunks.m3u8
-
-
+http://tecnotv.club/pop/geomex.php?c=174&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",TVC DEPORTES
+http://tecnotv.club/pop/geomex.php?c=2157&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",ADRENALINA SPORTS HD
+http://tecnotv.club/pop/geomex.php?c=1799&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",ESPN + 
+http://tecnotv.club/pop/geomex.php?c=167&p=3&k=tecnoplay&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO 2",ESPN 
+http://tecnotv.club/pop/geomex.php?c=168&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",ESPN 2
+http://tecnotv.club/pop/geomex.php?c=169&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",ESPN 3 
+http://tecnotv.club/pop/geomex.php?c=345&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS
+http://tecnotv.club/pop/geomex.php?c=170&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2
+http://tecnotv.club/pop/geomex.php?c=172&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 
+http://tecnotv.club/pop/geomex.php?c=178&p=3&k=tecnoplay&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",GOLF
+http://tecnotv.club/pop/geomex.php?c=179&p=3&k=tecnoplay&f=.m3u8 
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h"  group-title="ESPANA",24h
