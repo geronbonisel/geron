@@ -112,108 +112,109 @@ http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",Golden Edge
 http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1 group-title="MEXICO 3",a&e
+#EXTINF:-1 group-title="totalplay",a&e
 http://balancer1.ottmex.com:8081/tecno/AyE.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",antena series
-http://balancer1.ottmex.com:8081/BKR/AntenaSeries.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",E!
-http://balancer1.ottmex.com:8081/BKR/Eentertainment.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",fox life
-http://balancer1.ottmex.com:8081/BKR/Foxlife.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",más chic
-http://balancer1.ottmex.com:8081/BKR/MasChic.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",sony
+#EXTINF:-1 group-title="totalplay",antena series
+http://balancer1.ottmex.com:8081/tecno/AntenaSeries.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",E!
+http://balancer1.ottmex.com:8081/tecno/Eentertainment.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",fox life
+http://balancer1.ottmex.com:8081/tecno/Foxlife.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",más chic
+http://balancer1.ottmex.com:8081/tecno/MasChic.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",sony
 http://balancer1.ottmex.com:8081/tecno/Sony.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",studio universal
-http://balancer1.ottmex.com:8081/BKR/StudioUniversal.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",telemundo internacional
-http://balancer1.ottmex.com:8081/BKR/Telemundoint.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",warner
-http://balancer1.ottmex.com:8081/BKR/Warner.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",distrito comedia
-http://balancer1.ottmex.com:8081/tecno/Distritocomedia.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",fox
-http://balancer1.ottmex.com:8081/BKR/Fox.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",tnt series
-http://balancer1.ottmex.com:8081/BKR/TNT_Series.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",tnt
-http://balancer1.ottmex.com:8081/BKR/Tnt.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",hbo
+#EXTINF:-1 group-title="totalplay",studio universal
+http://balancer1.ottmex.com:8081/tecno/StudioUniversal.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",telemundo internacional
+http://balancer1.ottmex.com:8081/tecno/Telemundoint.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",warner
+http://balancer1.ottmex.com:8081/tecno/Warner.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",distrito comedia
+http://balancer1.ottmex.com:8081/tecno/Distritocomedia.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",fox
+http://balancer1.ottmex.com:8081/tecno/Fox.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",tnt series
+http://balancer1.ottmex.com:8081/tecno/TNT_Series.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",tnt
+http://balancer1.ottmex.com:8081/tecno/Tnt.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",hbo
 http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",hbo 2
+#EXTINF:-1 group-title="totalplay",hbo 2
 http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",hbo plus
+#EXTINF:-1 group-title="totalplay",hbo plus
 http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",hbo signature
+#EXTINF:-1 group-title="totalplay",hbo signature
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",hbo family
+#EXTINF:-1 group-title="totalplay",hbo family
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",Fox premium action
+#EXTINF:-1 group-title="totalplay",Fox premium action
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",Fox series
+#EXTINF:-1 group-title="totalplay",Fox series
 http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",Fox family
+#EXTINF:-1 group-title="totalplay",Fox family
 http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",Golden premier
+#EXTINF:-1 group-title="totalplay",Golden premier
 http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",life time
-http://balancer1.ottmex.com:8081/BKR/LifeTime.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",hgtv
-http://balancer1.ottmex.com:8081/BKR/HGTV.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",gourmet
-http://balancer1.ottmex.com:8081/BKR/Gourmet.TecnoByre/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",history channel
-http://balancer1.ottmex.com:808/BKR/HistoryChann.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",natgeo wild
-http://balancer1.ottmex.com:8081/BKR/NatgeoWild.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",animal planet
-http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",discovery channel
-http://balancer1.ottmex.com:8081/BKR/DiscoveryChannel.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",discovery H&H
+#EXTINF:-1 group-title="totalplay",life time
+http://balancer1.ottmex.com:8081/tecno/LifeTime.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",hgtv
+http://balancer1.ottmex.com:8081/tecno/HGTV.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",gourmet
+http://balancer1.ottmex.com:8081/tecno/Gourmet.TecnoByre/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",history channel
+http://balancer1.ottmex.com:808/tecno/HistoryChann.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",natgeo wild
+http://balancer1.ottmex.com:8081/tecno/NatgeoWild.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",animal planet
+http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",discovery channel
+http://balancer1.ottmex.com:8081/tecno/DiscoveryChannel.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",discovery H&H
 http://balancer1.ottmex.com:8081/tecno/DiscoveryHH.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",DISCOVERY theater
-http://balancer1.ottmex.com:8081/BKR/Discovery_Theater.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",discovery science
-http://balancer1.ottmex.com:8081/BKR/DiscoverySci.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",discovery turbo
+#EXTINF:-1 group-title="totalplay",DISCOVERY theater
+http://balancer1.ottmex.com:8081/tecno/Discovery_Theater.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",discovery science
+http://balancer1.ottmex.com:8081/tecno/DiscoverySci.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",discovery turbo
 http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",discovery world
+#EXTINF:-1 group-title="totalplay",discovery world
 http://balancer1.ottmex.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",discovery id
+#EXTINF:-1 group-title="totalplay",discovery id
 http://balancer1.ottmex.com:8081/tecno/ID.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",diseny jr
-http://balancer1.ottmex.com:8081/BKR/DisneyJR.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",disney channel
-http://balancer1.ottmex.com:8081/BKR/Disneychann.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",disney xd
-http://balancer1.ottmex.com:8081/BKR/DisneyXD.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",cartoon Network
-http://balancer1.ottmex.com:8081/BKR/CartoonNetwork/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",tooncast
+#EXTINF:-1 group-title="totalplay",diseny jr
+http://balancer1.ottmex.com:8081/tecno/DisneyJR.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",disney channel
+http://balancer1.ottmex.com:8081/tecno/Disneychann.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",disney xd
+http://balancer1.ottmex.com:8081/tecno/DisneyXD.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",cartoon Network
+http://balancer1.ottmex.com:8081/tecno/CartoonNetwork.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",tooncast
 http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",nicktoons
-http://balancer1.ottmex.com:8081/tecno/Nicktoons.TecnoByte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",baby tv
+#EXTINF:-1 group-title="totalplay",nicktoons
+http://balancer1.ottmex.com:8081/tecno/Nicktoons.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",baby tv
 http://balancer1.ottmex.com:8081/tecno/Babytv.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",tudn
-http://balancer1.ottmex.com:8081/BKR/tdn.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",espn
-http://balancer1.ottmex.com:8081/BKR/Espn1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",espn 2
-http://balancer1.ottmex.com:8081/BKR/Espn2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",espn 3
-http://balancer1.ottmex.com:8081/BKR/Espn3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",espn plus
-http://balancer1.ottmex.com:8081/BKR/Espn+.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",fox sports
-http://balancer1.ottmex.com:8081/BKR/FoxSports1.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",fox sports 2
-http://balancer1.ottmex.com:8081/BKR/FoxSports2.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",fox sports 3
-http://balancer1.ottmex.com:8081/BKR/FoxSports3.BKR/chunks.m3u8
-#EXTINF:-1 group-title="MEXICO 3",afizzionados
-http://balancer1.ottmex.com:8081/BKR/Afizzionados.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",tudn
+http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
+http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",espn
+http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",espn 2
+http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",espn 3
+http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",espn plus
+http://balancer1.ottmex.com:8081/tecno/Espn+.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",fox sports
+http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",fox sports 2
+http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",fox sports 3
+http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
+#EXTINF:-1 group-title="totalplay",afizzionados
+http://balancer1.ottmex.com:8081/tecno/Afizzionados.BKR/chunks.m3u8
 
 
 
