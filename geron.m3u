@@ -22,6 +22,8 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w2113
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEXIQUENSE"  group-title="MEXICO",MEXIQUENSE
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO",estrella tv
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telemundo"  group-title="MEXICO",telemundo
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="multimedios MTY"  group-title="MEXICO",multimedios MTY
