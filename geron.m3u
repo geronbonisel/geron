@@ -32,117 +32,121 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="foro tv b"  group-title="MEXICO",foro tv b
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MEXICO",foro tv opc2
+https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/index.m3u8
+#EXTINF:-1 group-title="MEXICO",estrella news
+https://estrellanews-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADN40"  group-title="MEXICO",ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="teleformula"  group-title="MEXICO",teleformula
 https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 #EXTINF:-1 group-title="MEXICO 2",TELEFORMULA SD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=32&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",MILENIO HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",EXCELSIOR TV
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",EL FINANCIERO HD 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOROTV HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=19&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",ADN 40 HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=184&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TVC
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",CNN
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=185&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",CNN Ñ SD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=187&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=187&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NTN 24
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=194&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",LAS ESTRELLAS HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",CANAL 5 HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1785&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",NU9VE HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",AZTECA UNO HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=7&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",AZTECA 7 HD 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=317&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",IMAGEN TV HD  
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2606&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2606&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",MULTIMEDIOS HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",ONCE HD 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",A+ 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",AZ CLIC HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=11&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",MVS TV
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",CANAL 4 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",CANAL 8
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TELEVISA PUEBLA
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TVMAS
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",UNICABLE
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1499&p=3&k=srregio&f=.m3u8   
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1499&p=3&k=srregio&f=.m3u8   
 #EXTINF:-1 group-title="MEXICO 2",TELEMUNDO INTERNACIONAL
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=85&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=85&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TVE america
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=198&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=198&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",STAR TVE 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",ANTENA 3 america
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=199&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=199&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",A3CINE 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",AZ CINEMA 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1787&p=3&k=srregio&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="MEXICO 2",DE PELICULA + 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=121&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=121&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",DE PELICULA SD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=335&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=335&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",GOLDEN +
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",GOLDEN
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=123&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",HISTORY
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=89&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=89&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=86&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=86&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",DISCOVERY SCIENCE  
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=98&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=98&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=99&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=99&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TUDN
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=174&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ADRENALINA SPORTS HD
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN + 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=167&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="MEXICO 2",ESPN 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=168&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN 2
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=169&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=169&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",ESPN 3 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=345&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=345&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=170&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=170&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=172&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=172&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=178&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="MEXICO 2",GOLF
-http://ipeteve.com/php/SR_REGIO_994005001/tp.php?c=179&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=179&p=3&k=srregio&f=.m3u8 
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h"  group-title="ESPANA",24h
@@ -480,7 +484,6 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w873168253.m3u8
 http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w1779906471.m3u8
 
 
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Panamericana peru"  group-title="PERU",Panamericana peru
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="best cable tv cine peru"  group-title="PERU",best cable tv cine peru
@@ -503,7 +506,8 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
 
-
+#EXTINF:-1 group-title="ARGENTINA",el 13 arg
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9 MULTIVISION SALTA HD"  group-title="ARGENTINA",9 MULTIVISION SALTA HD
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 MAX TELEFE"  group-title="ARGENTINA",13 MAX TELEFE
