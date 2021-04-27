@@ -788,14 +788,30 @@ http://cdn.adultiptv.net/threesome.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Deportes",wowtv cine
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",la liga bud
+http://209.205.221.74:128/budTV/3232/1624_.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",skysports 1 bud
+http://172.106.167.186:128/budTV/3232/3060_.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",skysports 2 bud
+http://172.106.167.186:128/budTV/3232/3061_.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",bein ñ bud
+http://209.205.221.74:128/budTV/3232/1605_.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",bein la liga ingles bud
+http://209.205.221.74:128/budTV/3232/1608_.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",directv sport bud
+http://23.227.145.10:128/budTV/3232/1643_.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG
 http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG
+http://23.237.78.54/live-1000/263/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",futbol shio1
 http://matiasstornini00.shortcm.li/shio1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",futbol shio2
 http://matiasstornini00.shortcm.li/shio2.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",TUDN
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",DANZ1
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",la liga
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",la liga bar
@@ -898,6 +914,12 @@ https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 1 RU
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 1 ruso
+http://46.174.189.51/m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 2 ruso
+http://46.174.189.51/m2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 3 ruso
+http://46.174.189.51/m3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 2 LA LIGA RU
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",MATCH 2 LA LIGA RU2
