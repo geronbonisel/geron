@@ -205,6 +205,8 @@ http://cdn2.interlibre.net/hls/2/index.m3u8
 http://cdn2.interlibre.net/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telemadrid"  group-title="ESPANA",telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 group-title="ESPANA",canal 33 madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVG EU HD"  group-title="ESPANA",TVG EU HD
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVG AM HD"  group-title="ESPANA",TVG AM HD
@@ -221,6 +223,8 @@ http://91.126.141.12:1935/live/discoverymax/.m3u8
 http://91.126.141.201:1935/live/kiss/.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TEN"  group-title="ESPANA",TEN
 http://91.126.141.201:1935/live/ten/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TEN"  group-title="ESPANA",cosmoHD 2
+http://91.126.141.201:1935/live/cosmoHD/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy"  group-title="ESPANA",Energy
 http://cdn2.interlibre.net/hls/192/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Energy 91"  group-title="ESPANA",Energy 91
