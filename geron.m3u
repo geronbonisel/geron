@@ -9,50 +9,6 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="https://i.ibb.co/5G7hwtS/ESTRELLAS.png" group-title="MÉXICO",Las Estrellas
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=1|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas -2" tvg-logo="https://i.ibb.co/5G7hwtS/ESTRELLAS.png" group-title="MÉXICO",Las Estrellas -2
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=2|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://i.ibb.co/4PQ7t88/CANAL5.png" group-title="MÉXICO",Canal 5
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=3|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="https://i.ibb.co/RjtYFCN/imagentv.png" group-title="MÉXICO",Imagen TV
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=4|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://i.ibb.co/PzkbP5M/AZTECA7.png" group-title="MÉXICO",Azteca 7
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=5|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Azteca uno" tvg-logo="https://i.ibb.co/vvChqYJ/descarga-1.png" group-title="MÉXICO",Azteca uno
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=6|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="https://i.ibb.co/1sg4JZF/televisa-mon.png" group-title="MÉXICO",Televisa Monterrey
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=7|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey" tvg-logo="https://i.ibb.co/j35TgSh/Imagen61.png" group-title="MÉXICO",Multimedios Monterrey
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=8|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Galavision" tvg-logo="https://i.ibb.co/3m7xMLt/GALAVMEXICO.png" group-title="MÉXICO",Galavision
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=9|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Nu9ve" tvg-logo="https://i.ibb.co/J3phSVj/nueve.png" group-title="MÉXICO",Nu9ve
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=10|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-logo="https://i.ibb.co/CK7fmcH/a.png" group-title="MÉXICO",A+
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=11|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Az Clic" tvg-logo="https://i.ibb.co/z4n8RqJ/AZCLIK.png" group-title="MÉXICO",Az Clic
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=12|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Az Corazon" tvg-logo="https://i.ibb.co/X3x6PMh/Imagen92.png" group-title="MÉXICO",Az Corazon
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=13|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-logo="https://i.ibb.co/0rKZNfx/Imagen91.png" group-title="MÉXICO",Az Mundo
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=14|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Az Cinema" tvg-logo="https://i.ibb.co/pdqHY1M/AZTECA-CINEMA.png" group-title="MÉXICO",Az Cinema
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=15|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Guadalajara" tvg-logo="https://i.ibb.co/fStRs3f/CANAL4.png" group-title="MÉXICO",Canal 4 Guadalajara
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=16|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Canal once" tvg-logo="https://i.ibb.co/LrtKBBJ/Imagen87.png" group-title="MÉXICO",Canal once
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=17|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Canal 52MX" tvg-logo="https://i.ibb.co/v4MjcP4/52mx.png" group-title="MÉXICO",Canal 52MX
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=18|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 66 - MEXICALI" tvg-logo="https://i.ibb.co/DpXxBK5/canal66.png" group-title="MÉXICO",CANAL 66 - MEXICALI
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=19|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="https://i.ibb.co/rpp4mk7/estrellatv.png" group-title="MÉXICO",Estrella TV
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=20|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Tvc" tvg-logo="https://i.ibb.co/k370SCT/tvc.png" group-title="MÉXICO",Tvc
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=21|User-Agent=ajajajaja
-
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 internacional"  group-title="MEXICO",CANAL 11 internacional
@@ -86,112 +42,127 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="teleformula"  group-title="MEXICO",teleformula
 https://wms40.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1 group-title="MEXICO 2",TELEFORMULA SD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=32&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",MILENIO HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",EXCELSIOR TV
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",EL FINANCIERO HD 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOROTV HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",ADN 40 HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=184&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",TVC
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",CNN
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",CNN Ñ SD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",NTN 24
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=194&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",LAS ESTRELLAS HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",CANAL 5 HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",NU9VE HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",AZTECA UNO HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",AZTECA 7 HD 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",IMAGEN TV HD  
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2606&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",MULTIMEDIOS HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2882&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",ONCE HD 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",A+ 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",AZ CLIC HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=11&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",MVS TV
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",CANAL 4 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",CANAL 8
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",TELEVISA PUEBLA
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",TVMAS
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",UNICABLE
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1499&p=3&k=srregio&f=.m3u8   
-#EXTINF:-1 group-title="MEXICO 2",TELEMUNDO INTERNACIONAL
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=85&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",TVE america
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=198&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",STAR TVE 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",ANTENA 3 america
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=199&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",A3CINE 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",AZ CINEMA 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1787&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="MEXICO 2",DE PELICULA + 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=121&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",DE PELICULA SD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=335&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",GOLDEN +
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",GOLDEN
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=124&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",HISTORY
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=89&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=86&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",DISCOVERY SCIENCE  
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=98&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=99&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO 2",ADN40
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=168|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",CNN ESPAÑOL
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=169|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",FORO TV
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=170|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",MILENIO TV
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=171|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",TELEFORMULA
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=172|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Las Estrellas
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=1|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Las Estrellas -2
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=2|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Canal 5
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=3|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Imagen TV
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=4|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Azteca 7
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=5|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Azteca uno
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=6|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Televisa Monterrey
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=7|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Multimedios Monterrey
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=8|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Galavision
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=9|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Nu9ve
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=10|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",A+
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=11|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Az Clic
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=12|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Az Corazon
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=13|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Az Mundo
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=14|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Az Cinema
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=15|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Canal 4 Guadalajara
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=16|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Canal once
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=17|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Canal 52MX
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=18|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",CANAL 66 - MEXICALI
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=19|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Estrella TV
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=20|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Tvc
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=21|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Telemundo Int.
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=41|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Univision
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=24|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Unimas E
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=53|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Unicable
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=46|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",TVE int
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=47|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Start Tve
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=48|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Antena 3 int
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=31|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Telehit Plus
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=148|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Telehit Urbano
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=147|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",UTDN
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=127|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",TUDN
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ADRENALINA SPORTS HD
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ESPN + 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO 2",ESPN 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=128|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Afizzionados
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=129|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",ESPN Deportes
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=130|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",ESPN
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=131|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",ESPN 2
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=169&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",ESPN 3 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",FOX SPORTS 3 
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=178&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO 2",GOLF
-http://ipeteve.com/php/SR_REGIO_993007027/tp.php?c=179&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=132|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",ESPN 3
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=133|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",ESPN Extra
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=134|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Deportes
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=135|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Sports
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=136|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Sports 2
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=137|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Sports 3
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=138|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Bein Sports
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=139|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",M la liga
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=140|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",De Pelicula Plus
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=97|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",De Pelicula
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=98|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Golden
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=90|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Golden Edge
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=91|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Golden plus
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=92|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Golden Premier
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=93|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",HBO
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=112|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",HBO 2
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=113|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Movies
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=121|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Cinema
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=122|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Fox Action
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=123|User-Agent=ajajajaja
+
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h"  group-title="ESPANA",24h
