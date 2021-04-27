@@ -213,6 +213,8 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="el toro tv"  group-title="ESPANA",el toro tv
 https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="ESPANA",DISTRITO TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 #EXTINF:-1 group-title="ESPANA",fibwi
 http://109.232.71.249/fibwiLIVE_movil/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMAX"  group-title="ESPANA",DMAX
