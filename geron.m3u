@@ -52,6 +52,8 @@ http://ipeteve.com/php/SR_REGIO_32/android.php?c=170|User-Agent=ajajajaja
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=171|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",TELEFORMULA
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=172|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Tvc
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=21|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Las Estrellas
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=1|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Las Estrellas -2
@@ -64,8 +66,6 @@ http://ipeteve.com/php/SR_REGIO_32/android.php?c=4|User-Agent=ajajajaja
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=5|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Azteca uno
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=6|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Televisa Monterrey
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=7|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Multimedios Monterrey
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=8|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Galavision
@@ -74,26 +74,8 @@ http://ipeteve.com/php/SR_REGIO_32/android.php?c=9|User-Agent=ajajajaja
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=10|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",A+
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=11|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Az Clic
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=12|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Az Corazon
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=13|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Az Mundo
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=14|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Az Cinema
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=15|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Canal 4 Guadalajara
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=16|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Canal once
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=17|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Canal 52MX
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=18|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",CANAL 66 - MEXICALI
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=19|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Estrella TV
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=20|User-Agent=ajajajaja
-#EXTINF:-1 group-title="MEXICO 2",Tvc
-http://ipeteve.com/php/SR_REGIO_32/android.php?c=21|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Telemundo Int.
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=41|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Univision
@@ -144,6 +126,8 @@ http://ipeteve.com/php/SR_REGIO_32/android.php?c=140|User-Agent=ajajajaja
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=97|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",De Pelicula
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=98|User-Agent=ajajajaja
+#EXTINF:-1 group-title="MEXICO 2",Az Cinema
+http://ipeteve.com/php/SR_REGIO_32/android.php?c=15|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Golden
 http://ipeteve.com/php/SR_REGIO_32/android.php?c=90|User-Agent=ajajajaja
 #EXTINF:-1 group-title="MEXICO 2",Golden Edge
