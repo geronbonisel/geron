@@ -463,7 +463,7 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNICANAL PY"  group-title="OTROS LATINOS",UNICANAL PY
 http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telecosta guatemala"  group-title="OTROS LATINOS",telecosta guatemala
-https://5c5c125d8dbaa.streamlock.net:1936/telecosta/telecosta/chunklist_w947211457.m3u8
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="canal antigua guatemala"  group-title="OTROS LATINOS",canal antigua guatemala
 https://live.canalantigua.tv/CanalAntigua/myStream/chunklist_w164669037.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV MARTI MIA-CUB"  group-title="OTROS LATINOS",TV MARTI MIA-CUB
