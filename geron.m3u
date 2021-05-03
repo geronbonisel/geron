@@ -826,15 +826,31 @@ http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",true sport7
 http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport1
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sportklub 1
+http://91.212.150.248:80/SK1HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sportklub 2
+http://91.212.150.248:80/SK2HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",sportklub 3
+http://91.212.150.248:80/SK3HD/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport 1
+http://91.212.150.248:80/ArenaSport1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport 2
+http://91.212.150.248:80/ArenaSport2/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport 3
+http://91.212.150.248:80/ArenaSport3/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport 4
+http://91.212.150.248:80/ArenaSport4/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport 5
+http://91.212.150.248:80/ArenaSport5/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport1 op2
 http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport2
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport2 op2
 http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport3
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport3 op2
 http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport4
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport4 op2
 http://stream.tvtap.live:8081/live/arena4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport5
+#EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport5 op2
 http://stream.tvtap.live:8081/live/arena5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",MACH 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
