@@ -158,6 +158,8 @@ http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
 https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD2
 http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
+#EXTINF:-1 group-title="ESPANA",euronews es
+https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA1"  group-title="ESPANA",LA1
 http://cdn2.interlibre.net/hls/464/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="la1 91"  group-title="ESPANA",la1 91
@@ -828,7 +830,16 @@ http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id=" " group-title="XXX",redlightHD
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",hustlerhd
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",leo tv
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",filmon x 1
+http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",filmon x 2
+http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="superONE"  group-title="XXX",superONE
 http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anal"  group-title="XXX",Anal
@@ -1000,6 +1011,10 @@ http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/arena4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",arena sport5 op2
 http://stream.tvtap.live:8081/live/arena5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",nova sport 1
+http://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_fullhd.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",nova sport 2
+http://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_fullhd.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",MACH 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",MACH 2 HD
