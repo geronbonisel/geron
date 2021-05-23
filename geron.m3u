@@ -408,7 +408,7 @@ http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine"  group-title="CINE",a3cine
 http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="wowtv cine"  group-title="CINE",wowtv cine
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="orbit cable peliculas"  group-title="CINE",orbit cable peliculas
 https://ss3.domint.net:3134/otv_str/orbittv/media_w301356283_4721.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",GOLDEN PREMIER
@@ -890,7 +890,7 @@ http://cdn.adultiptv.net/threesome.m3u8
 
 
 #EXTINF:-1 tvg-id=" " group-title="Deportes",wowtv cine
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG 2
