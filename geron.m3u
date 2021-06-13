@@ -254,153 +254,294 @@ http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 
-#EXTINF:-1 group-title="ESPANA2",24 HORAS
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38524.m3u8
 #EXTINF:-1 group-title="ESPANA2",LA 1 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38378.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38378
 #EXTINF:-1 group-title="ESPANA2",LA 2
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38379.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38379
 #EXTINF:-1 group-title="ESPANA2",La 2 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38380.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38380
 #EXTINF:-1 group-title="ESPANA2",ANTENA 3
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38381.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38381
 #EXTINF:-1 group-title="ESPANA2",ANTENA3 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38382.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38382
 #EXTINF:-1 group-title="ESPANA2",CUATRO
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38383.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38383
 #EXTINF:-1 group-title="ESPANA2",CUATRO HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38384.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38384
 #EXTINF:-1 group-title="ESPANA2",TELECINCO
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38385.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38385
 #EXTINF:-1 group-title="ESPANA2",TELECINCO HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38386.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38386
 #EXTINF:-1 group-title="ESPANA2",LA SEXTA
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38387.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38387
 #EXTINF:-1 group-title="ESPANA2",LA SEXTA HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38388.m3u8
-#EXTINF:-1 group-title="ESPANA2",mega
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38457.m3u8
-#EXTINF:-1 group-title="ESPANA2",ENERGY
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38419.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38388
+#EXTINF:-1 group-title="ESPANA2",C+ SERIES
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38390
+#EXTINF:-1 group-title="ESPANA2",C+ SERIES XTRA
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38391
+#EXTINF:-1 group-title="ESPANA2",MOVISTAR SERIES MANIA HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38392
+#EXTINF:-1 group-title="ESPANA2",M. SERIES HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38393
+#EXTINF:-1 group-title="ESPANA2",M. Series Xtra HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38394
+#EXTINF:-1 group-title="ESPANA2",A3 SERIES HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38395
 #EXTINF:-1 group-title="ESPANA2",#0 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38396.m3u8
-#EXTINF:-1 group-title="ESPANA2",CANAL SUR A.
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38519.m3u8
-#EXTINF:-1 group-title="ESPANA2",Aragon TV
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38520.m3u8
-#EXTINF:-1 group-title="ESPANA2",TV GALICIA
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38521.m3u8
-#EXTINF:-1 group-title="ESPANA2",ANDALUCIA TV
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38522.m3u8
-#EXTINF:-1 group-title="ESPANA2",7RM HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38523.m3u8
-#EXTINF:-1 group-title="ESPANA2",tdp HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38466.m3u8
-#EXTINF:-1 group-title="ESPANA2",TELEDEPORTE
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38450.m3u8
-#EXTINF:-1 group-title="ESPANA2",GOL TV
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38459.m3u8
-#EXTINF:-1 group-title="ESPANA2",VAMOS HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38525.m3u8
-#EXTINF:-1 group-title="ESPANA2",M. LIGA HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38437.m3u8
-#EXTINF:-1 group-title="ESPANA2",LALIGATV BAR
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38438.m3u8
-#EXTINF:-1 group-title="ESPANA2",LA LIGA TV BAR HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38439.m3u8
-#EXTINF:-1 group-title="ESPANA2",M.Liga De Campeones
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38463.m3u8
-#EXTINF:-1 group-title="ESPANA2",M Liga de Campeones HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38440.m3u8
-#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 1 HD (Solo Eventos)
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38441.m3u8
-#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 2  HD (Solo Eventos)
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38442.m3u8
-#EXTINF:-1 group-title="ESPANA2",M. DEPORTE 1 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38451.m3u8
-#EXTINF:-1 group-title="ESPANA2",M. DEPORTE 2 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38452.m3u8
-#EXTINF:-1 group-title="ESPANA2",M.MOTOGP HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38464.m3u8
-#EXTINF:-1 group-title="ESPANA2",M.FORMULA 1 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38465.m3u8
-#EXTINF:-1 group-title="ESPANA2",M.FORMULA1
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38460.m3u8
-#EXTINF:-1 group-title="ESPANA2",Movistar+ F1 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38453.m3u8
-#EXTINF:-1 group-title="ESPANA2",M. GOLF HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38454.m3u8
-#EXTINF:-1 group-title="ESPANA2",EUROSPORT 1 HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38461.m3u8
-#EXTINF:-1 group-title="ESPANA2",Eurosport 2
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38462.m3u8
-#EXTINF:-1 group-title="ESPANA2",DAZN 1
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38469.m3u8
-#EXTINF:-1 group-title="ESPANA2",DAZN 2
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38470.m3u8
-#EXTINF:-1 group-title="ESPANA2",A&E
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38526.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38396
+#EXTINF:-1 group-title="ESPANA2",FOX HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38397
+#EXTINF:-1 group-title="ESPANA2",FOX LIFE
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38398
+#EXTINF:-1 group-title="ESPANA2",FOX LIFE HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38399
+#EXTINF:-1 group-title="ESPANA2",AXN HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38400
+#EXTINF:-1 group-title="ESPANA2",AXN WHITE
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38401
+#EXTINF:-1 group-title="ESPANA2",AXN WHITE HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38402
+#EXTINF:-1 group-title="ESPANA2",TNT
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38403
+#EXTINF:-1 group-title="ESPANA2",TNT HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38404
+#EXTINF:-1 group-title="ESPANA2",COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38405
+#EXTINF:-1 group-title="ESPANA2",COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38406
 #EXTINF:-1 group-title="ESPANA2",CALLE 13
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38407.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38407
+#EXTINF:-1 group-title="ESPANA2",CALLE 13 HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38408
+#EXTINF:-1 group-title="ESPANA2",COSMO
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38409
+#EXTINF:-1 group-title="ESPANA2",COSMO HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38410
 #EXTINF:-1 group-title="ESPANA2",AMC
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38411.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38411
+#EXTINF:-1 group-title="ESPANA2",AMC HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38412
+#EXTINF:-1 group-title="ESPANA2",SYFY
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38413
+#EXTINF:-1 group-title="ESPANA2",SYFY HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38414
+#EXTINF:-1 group-title="ESPANA2",FDF
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38415
+#EXTINF:-1 group-title="ESPANA2",NEOX
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38416
 #EXTINF:-1 group-title="ESPANA2",SOMOS
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38417.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38417
 #EXTINF:-1 group-title="ESPANA2",XTRM
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38418.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38418
+#EXTINF:-1 group-title="ESPANA2",ENERGY
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38419
 #EXTINF:-1 group-title="ESPANA2",C+ ESTRENOS
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38421.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38421
 #EXTINF:-1 group-title="ESPANA2",M.ESTRENOS HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38422.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38422
 #EXTINF:-1 group-title="ESPANA2",Movistar Cine Doc & Roll HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38423.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38423
+#EXTINF:-1 group-title="ESPANA2",DISNEY CH.
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38424
+#EXTINF:-1 group-title="ESPANA2",DISNEY CH HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38425
 #EXTINF:-1 group-title="ESPANA2",C+ ACCION HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38426.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38426
 #EXTINF:-1 group-title="ESPANA2",M.COMEDIA HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38427.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38427
 #EXTINF:-1 group-title="ESPANA2",MOVISTAR DRAMA HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38428.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38428
 #EXTINF:-1 group-title="ESPANA2",DCINEPANOL
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38429.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38429
 #EXTINF:-1 group-title="ESPANA2",C+ DCINE HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38430.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38430
 #EXTINF:-1 group-title="ESPANA2",TCM HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38431.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38431
 #EXTINF:-1 group-title="ESPANA2",HOLLYWOOD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38432.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38432
 #EXTINF:-1 group-title="ESPANA2",Hollywood HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38433.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38433
 #EXTINF:-1 group-title="ESPANA2",PARAMOUNT
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38434.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38434
 #EXTINF:-1 group-title="ESPANA2",M. XTRA HD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38435.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38435
+#EXTINF:-1 group-title="ESPANA2",M. LIGA HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38437
+#EXTINF:-1 group-title="ESPANA2",LALIGATV BAR
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38438
+#EXTINF:-1 group-title="ESPANA2",LA LIGA TV BAR HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38439
+#EXTINF:-1 group-title="ESPANA2",M Liga de Campeones HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38440
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 1 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38441
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 2  HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38442
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 3 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38443
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 4 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38444
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 5 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38445
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 6 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38446
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 7 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38447
+#EXTINF:-1 group-title="ESPANA2",M. Liga de campeones 8 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38448
+#EXTINF:-1 group-title="ESPANA2",TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38450
+#EXTINF:-1 group-title="ESPANA2",M. DEPORTE 1 HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38451
+#EXTINF:-1 group-title="ESPANA2",M. DEPORTE 2 HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38452
+#EXTINF:-1 group-title="ESPANA2",Movistar+ F1 HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38453
+#EXTINF:-1 group-title="ESPANA2",M. GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38454
+#EXTINF:-1 group-title="ESPANA2",BARCA TV
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38455
+#EXTINF:-1 group-title="ESPANA2",Realmadrid TV HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38456
+#EXTINF:-1 group-title="ESPANA2",mega
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38457
+#EXTINF:-1 group-title="ESPANA2",C+ FUTBOL HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38458
+#EXTINF:-1 group-title="ESPANA2",GOL TV
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38459
+#EXTINF:-1 group-title="ESPANA2",M.FORMULA1
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38460
+#EXTINF:-1 group-title="ESPANA2",EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38461
+#EXTINF:-1 group-title="ESPANA2",Eurosport 2
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38462
+#EXTINF:-1 group-title="ESPANA2",M.Liga De Campeones HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38463
+#EXTINF:-1 group-title="ESPANA2",M.MOTOGP HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38464
+#EXTINF:-1 group-title="ESPANA2",M.FORMULA 1 HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38465
+#EXTINF:-1 group-title="ESPANA2",tdp HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38466
+#EXTINF:-1 group-title="ESPANA2",DAZN 1
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38469
+#EXTINF:-1 group-title="ESPANA2",DAZN 2
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38470
+#EXTINF:-1 group-title="ESPANA2",NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38475
 #EXTINF:-1 group-title="ESPANA2",NAT GEOGRAPHIC
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38476.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38476
+#EXTINF:-1 group-title="ESPANA2",NG WILD HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38477
 #EXTINF:-1 group-title="ESPANA2",HISTORIA
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38478.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38478
 #EXTINF:-1 group-title="ESPANA2",DISCOVERY
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38479.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38479
 #EXTINF:-1 group-title="ESPANA2",DMAX
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38480.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38480
 #EXTINF:-1 group-title="ESPANA2",BLAZE
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38482.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38482
 #EXTINF:-1 group-title="ESPANA2",VIAJAR
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38483.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38483
+#EXTINF:-1 group-title="ESPANA2",VIAJAR HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38484
+#EXTINF:-1 group-title="ESPANA2",CRIMEN+INVES
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38485
 #EXTINF:-1 group-title="ESPANA2",CANAL COCINA
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38487.m3u8
-#EXTINF:-1 group-title="ESPANA2",TEN
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38501.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38487
+#EXTINF:-1 group-title="ESPANA2",CANAL DE CASA
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38488
 #EXTINF:-1 group-title="ESPANA2",Be Mad
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38489.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38489
+#EXTINF:-1 group-title="ESPANA2",Be Mad tv HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38490
+#EXTINF:-1 group-title="ESPANA2",CANAL ORBE21
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38491
+#EXTINF:-1 group-title="ESPANA2",SUNDANCE
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38492
 #EXTINF:-1 group-title="ESPANA2",DKISS
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38493.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38493
 #EXTINF:-1 group-title="ESPANA2",CAZA Y PESCA
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38494.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38494
+#EXTINF:-1 group-title="ESPANA2",CAZA y PESCA HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38495
 #EXTINF:-1 group-title="ESPANA2",IBERALIA TV FHD
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38496.m3u8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38496
 #EXTINF:-1 group-title="ESPANA2",Toros
-http://xtra.xcs521.cz:8080/live/go0gFqxZq9/1y6qIJgZi7/38497.m3u8
-
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38497
+#EXTINF:-1 group-title="ESPANA2",C+ TOROS HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38498
+#EXTINF:-1 group-title="ESPANA2",NOVA
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38499
+#EXTINF:-1 group-title="ESPANA2",DIVINITY
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38500
+#EXTINF:-1 group-title="ESPANA2",TEN
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38501
+#EXTINF:-1 group-title="ESPANA2",BOING
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38503
+#EXTINF:-1 group-title="ESPANA2",CLAN  TVE
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38504
+#EXTINF:-1 group-title="ESPANA2",Clan HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38505
+#EXTINF:-1 group-title="ESPANA2",BABY TV
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38506
+#EXTINF:-1 group-title="ESPANA2",NICK JR
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38507
+#EXTINF:-1 group-title="ESPANA2",CANAL PANDA
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38508
+#EXTINF:-1 group-title="ESPANA2",NICKELODEON
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38509
+#EXTINF:-1 group-title="ESPANA2",NICKELODEON HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38510
+#EXTINF:-1 group-title="ESPANA2",DISNEY JUNIOR
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38511
+#EXTINF:-1 group-title="ESPANA2",DISNEY XD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38512
+#EXTINF:-1 group-title="ESPANA2",MTV
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38514
+#EXTINF:-1 group-title="ESPANA2",MEZZO
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38515
+#EXTINF:-1 group-title="ESPANA2",MEZZO LIVE HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38516
+#EXTINF:-1 group-title="ESPANA2",CLASSICA
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38517
+#EXTINF:-1 group-title="ESPANA2",CANAL SUR A.
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38519
+#EXTINF:-1 group-title="ESPANA2",Aragon TV
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38520
+#EXTINF:-1 group-title="ESPANA2",TV GALICIA
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38521
+#EXTINF:-1 group-title="ESPANA2",ANDALUCIA TV
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38522
+#EXTINF:-1 group-title="ESPANA2",7RM HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38523
+#EXTINF:-1 group-title="ESPANA2",24 HORAS
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38524
+#EXTINF:-1 group-title="ESPANA2",VAMOS HD
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38525
+#EXTINF:-1 group-title="ESPANA2",A&E
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/38526
+#EXTINF:-1 group-title="ESPANA2",Alquiler 1
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45844
+#EXTINF:-1 group-title="ESPANA2",Alquiler 2
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45845
+#EXTINF:-1 group-title="ESPANA2",Alquiler 3
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45846
+#EXTINF:-1 group-title="ESPANA2",Alquiler 4
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45847
+#EXTINF:-1 group-title="ESPANA2",Alquiler 5
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45848
+#EXTINF:-1 group-title="ESPANA2",Alquiler 6
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45849
+#EXTINF:-1 group-title="ESPANA2",Alquiler 7
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45850
+#EXTINF:-1 group-title="ESPANA2",Alquiler 8
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45851
+#EXTINF:-1 group-title="ESPANA2",Alquiler 9
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45852
+#EXTINF:-1 group-title="ESPANA2",Alquiler 10
+http://dimapro.cz:8080/00:1A:79:17:06:D0/ziajdjjfdifjd64646/45853
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine HD"  group-title="CINE",a3cine HD
