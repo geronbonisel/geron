@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 10"  group-title="CANCUN",CANAL 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIPSE TV CANCUN"  group-title="CANCUN",SIPSE TV CANCUN
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+https://webprod.sipse.com.mx:8080/show/tvcun_low.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIPSE TV MERIDA"  group-title="CANCUN",SIPSE TV MERIDA
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
