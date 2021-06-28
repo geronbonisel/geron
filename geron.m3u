@@ -638,8 +638,6 @@ http://185.96.176.139:8080/superone/index.m3u8
 http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="XXX",filmon x 2
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="XXX",filmon x 3
-http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anal"  group-title="XXX",Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Big Ass"  group-title="XXX",Big Ass
