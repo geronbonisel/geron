@@ -149,52 +149,80 @@ http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 
-#EXTINF:-1 group-title="ESPANA2",ES: CNN
-http://51.91.73.99:25461/spain/XDWu1KatRP/21614
-#EXTINF:-1 group-title="ESPANA2",ES: 24 HORAS
-http://51.91.73.99:25461/spain/XDWu1KatRP/21521
-#EXTINF:-1 group-title="ESPANA2",ES: La 1 FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21707
-#EXTINF:-1 group-title="ESPANA2",ES: LA 2 FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21709
-#EXTINF:-1 group-title="ESPANA2",ES: Antena 3 FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21546
-#EXTINF:-1 group-title="ESPANA2",ES: Cuatro FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21624
-#EXTINF:-1 group-title="ESPANA2",ES: LA CUATRO
-http://51.91.73.99:25461/spain/XDWu1KatRP/21710
-#EXTINF:-1 group-title="ESPANA2",ES: TELECINCO FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21846
-#EXTINF:-1 group-title="ESPANA2",ES: TELECINO HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21847
-#EXTINF:-1 group-title="ESPANA2",ES: LA SEXTA FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21711
-#EXTINF:-1 group-title="ESPANA2",ES: MEGA HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21718
-#EXTINF:-1 group-title="ESPANA2",ES: BE MAD FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21558
-#EXTINF:-1 group-title="ESPANA2",ES: Andalucia TV HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21545
-#EXTINF:-1 group-title="ESPANA2",ES: CANAL+ Estrenos
-http://51.91.73.99:25461/spain/XDWu1KatRP/21597
-#EXTINF:-1 group-title="ESPANA2",ES: #0 FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21517
-#EXTINF:-1 group-title="ESPANA2",ES: Teledeporte FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21848
-#EXTINF:-1 group-title="ESPANA2",ES: GOL HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21692
-#EXTINF:-1 group-title="ESPANA2",ES: MOVISTAR MULTIDEPORTE FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21769
-#EXTINF:-1 group-title="ESPANA2",ES: #VAMOS FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21518
-#EXTINF:-1 group-title="ESPANA2",ES: LaLiga TV
-http://51.91.73.99:25461/spain/XDWu1KatRP/21712
-#EXTINF:-1 group-title="ESPANA2",ES: CANAL+ Liga
-http://51.91.73.99:25461/spain/XDWu1KatRP/21598
-#EXTINF:-1 group-title="ESPANA2",ES: MOVISTAR Futball HD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21760
-#EXTINF:-1 group-title="ESPANA2",ES: Caza Y Pesca FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21605
+#EXTINF:-1 group-title="ESPANA2",24h
+http://77.227.219.102:8881/stream/channelid/1416686466
+#EXTINF:-1 group-title="ESPANA2",24h HD
+http://77.227.219.102:8881/stream/channelid/2083442806
+#EXTINF:-1 group-title="ESPANA2",GOL
+http://77.227.219.102:8881/stream/channelid/1073837020
+#EXTINF:-1 group-title="ESPANA2",La 1
+http://77.227.219.102:8881/stream/channelid/1198369930
+#EXTINF:-1 group-title="ESPANA2",La 1 HD
+http://77.227.219.102:8881/stream/channelid/891561341
+#EXTINF:-1 group-title="ESPANA2",La 2
+http://77.227.219.102:8881/stream/channelid/349822452
+#EXTINF:-1 group-title="ESPANA2",La 2 HD
+http://77.227.219.102:8881/stream/channelid/1219577488
+#EXTINF:-1 group-title="ESPANA2",antena3
+http://77.227.219.102:8881/stream/channelid/993788657
+#EXTINF:-1 group-title="ESPANA2",antena3 HD
+http://77.227.219.102:8881/stream/channelid/2087218990
+#EXTINF:-1 group-title="ESPANA2",Cuatro
+http://77.227.219.102:8881/stream/channelid/1213576755
+#EXTINF:-1 group-title="ESPANA2",Cuatro HD
+http://77.227.219.102:8881/stream/channelid/858846196
+#EXTINF:-1 group-title="ESPANA2",Telecinco
+http://77.227.219.102:8881/stream/channelid/1186866347
+#EXTINF:-1 group-title="ESPANA2",Telecinco HD
+http://77.227.219.102:8881/stream/channelid/215023071
+#EXTINF:-1 group-title="ESPANA2",laSexta
+http://77.227.219.102:8881/stream/channelid/572708696
+#EXTINF:-1 group-title="ESPANA2",laSexta HD
+http://77.227.219.102:8881/stream/channelid/1720443633
+#EXTINF:-1 group-title="ESPANA2",Telemadrid
+http://77.227.219.102:8881/stream/channelid/1566700807
+#EXTINF:-1 group-title="ESPANA2",mega
+http://77.227.219.102:8881/stream/channelid/1823383736
+#EXTINF:-1 group-title="ESPANA2",tdp
+http://77.227.219.102:8881/stream/channelid/1296469736
+#EXTINF:-1 group-title="ESPANA2",tdp HD
+http://77.227.219.102:8881/stream/channelid/103146333
+#EXTINF:-1 group-title="ESPANA2",Realmadrid TV HD
+http://77.227.219.102:8881/stream/channelid/1064660575
+#EXTINF:-1 group-title="ESPANA2",Telemadrid HD
+http://77.227.219.102:8881/stream/channelid/2029992073
+#EXTINF:-1 group-title="ESPANA2",LA OTRA
+http://77.227.219.102:8881/stream/channelid/1943459897
+#EXTINF:-1 group-title="ESPANA2",LA OTRA HD
+http://77.227.219.102:8881/stream/channelid/1507332101
+#EXTINF:-1 group-title="ESPANA2",PARAMOUNT NETWORK
+http://77.227.219.102:8881/stream/channelid/631237991
+#EXTINF:-1 group-title="ESPANA2",Divinity
+http://77.227.219.102:8881/stream/channelid/143733326
+#EXTINF:-1 group-title="ESPANA2",atreseries HD
+http://77.227.219.102:8881/stream/channelid/2088574794
+#EXTINF:-1 group-title="ESPANA2",TEN
+http://77.227.219.102:8881/stream/channelid/1364371196
+#EXTINF:-1 group-title="ESPANA2",DMAX
+http://77.227.219.102:8881/stream/channelid/77941126
+#EXTINF:-1 group-title="ESPANA2",neox
+http://77.227.219.102:8881/stream/channelid/2107891354
+#EXTINF:-1 group-title="ESPANA2",nova
+http://77.227.219.102:8881/stream/channelid/1877917343
+#EXTINF:-1 group-title="ESPANA2",TRECE
+http://77.227.219.102:8881/stream/channelid/1987576186
+#EXTINF:-1 group-title="ESPANA2",Energy
+http://77.227.219.102:8881/stream/channelid/647327254
+#EXTINF:-1 group-title="ESPANA2",BeMad tv HD
+http://77.227.219.102:8881/stream/channelid/1207787969
+#EXTINF:-1 group-title="ESPANA2",FDF
+http://77.227.219.102:8881/stream/channelid/1859057506
+#EXTINF:-1 group-title="ESPANA2",8madrid TV
+http://77.227.219.102:8881/stream/channelid/1937749534
+#EXTINF:-1 group-title="ESPANA2",BOM
+http://77.227.219.102:8881/stream/channelid/352769946
+#EXTINF:-1 group-title="ESPANA2",DKISS
+http://77.227.219.102:8881/stream/channelid/1099211405
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="a3cine HD"  group-title="CINE",a3cine HD
