@@ -151,22 +151,12 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 #EXTINF:-1 group-title="ESPANA2",24h
 http://77.227.219.102:8881/stream/channelid/1416686466
-#EXTINF:-1 group-title="ESPANA2",24h HD
-http://77.227.219.102:8881/stream/channelid/2083442806
-#EXTINF:-1 group-title="ESPANA2",GOL
-http://77.227.219.102:8881/stream/channelid/1073837020
 #EXTINF:-1 group-title="ESPANA2",La 1
 http://77.227.219.102:8881/stream/channelid/1198369930
-#EXTINF:-1 group-title="ESPANA2",La 1 HD
-http://77.227.219.102:8881/stream/channelid/891561341
 #EXTINF:-1 group-title="ESPANA2",La 2
 http://77.227.219.102:8881/stream/channelid/349822452
-#EXTINF:-1 group-title="ESPANA2",La 2 HD
-http://77.227.219.102:8881/stream/channelid/1219577488
 #EXTINF:-1 group-title="ESPANA2",antena3
 http://77.227.219.102:8881/stream/channelid/993788657
-#EXTINF:-1 group-title="ESPANA2",antena3 HD
-http://77.227.219.102:8881/stream/channelid/2087218990
 #EXTINF:-1 group-title="ESPANA2",Cuatro
 http://77.227.219.102:8881/stream/channelid/1213576755
 #EXTINF:-1 group-title="ESPANA2",Cuatro HD
@@ -177,32 +167,18 @@ http://77.227.219.102:8881/stream/channelid/1186866347
 http://77.227.219.102:8881/stream/channelid/215023071
 #EXTINF:-1 group-title="ESPANA2",laSexta
 http://77.227.219.102:8881/stream/channelid/572708696
-#EXTINF:-1 group-title="ESPANA2",laSexta HD
-http://77.227.219.102:8881/stream/channelid/1720443633
 #EXTINF:-1 group-title="ESPANA2",Telemadrid
 http://77.227.219.102:8881/stream/channelid/1566700807
 #EXTINF:-1 group-title="ESPANA2",mega
 http://77.227.219.102:8881/stream/channelid/1823383736
+#EXTINF:-1 group-title="ESPANA2",GOL
+http://77.227.219.102:8881/stream/channelid/1073837020
 #EXTINF:-1 group-title="ESPANA2",tdp
 http://77.227.219.102:8881/stream/channelid/1296469736
-#EXTINF:-1 group-title="ESPANA2",tdp HD
-http://77.227.219.102:8881/stream/channelid/103146333
-#EXTINF:-1 group-title="ESPANA2",Realmadrid TV HD
-http://77.227.219.102:8881/stream/channelid/1064660575
-#EXTINF:-1 group-title="ESPANA2",Telemadrid HD
-http://77.227.219.102:8881/stream/channelid/2029992073
-#EXTINF:-1 group-title="ESPANA2",LA OTRA
-http://77.227.219.102:8881/stream/channelid/1943459897
-#EXTINF:-1 group-title="ESPANA2",LA OTRA HD
-http://77.227.219.102:8881/stream/channelid/1507332101
 #EXTINF:-1 group-title="ESPANA2",PARAMOUNT NETWORK
 http://77.227.219.102:8881/stream/channelid/631237991
 #EXTINF:-1 group-title="ESPANA2",Divinity
 http://77.227.219.102:8881/stream/channelid/143733326
-#EXTINF:-1 group-title="ESPANA2",atreseries HD
-http://77.227.219.102:8881/stream/channelid/2088574794
-#EXTINF:-1 group-title="ESPANA2",TEN
-http://77.227.219.102:8881/stream/channelid/1364371196
 #EXTINF:-1 group-title="ESPANA2",DMAX
 http://77.227.219.102:8881/stream/channelid/77941126
 #EXTINF:-1 group-title="ESPANA2",neox
@@ -215,10 +191,6 @@ http://77.227.219.102:8881/stream/channelid/1987576186
 http://77.227.219.102:8881/stream/channelid/647327254
 #EXTINF:-1 group-title="ESPANA2",BeMad tv HD
 http://77.227.219.102:8881/stream/channelid/1207787969
-#EXTINF:-1 group-title="ESPANA2",FDF
-http://77.227.219.102:8881/stream/channelid/1859057506
-#EXTINF:-1 group-title="ESPANA2",8madrid TV
-http://77.227.219.102:8881/stream/channelid/1937749534
 #EXTINF:-1 group-title="ESPANA2",BOM
 http://77.227.219.102:8881/stream/channelid/352769946
 #EXTINF:-1 group-title="ESPANA2",DKISS
