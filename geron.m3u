@@ -13,6 +13,10 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 #EXTINF:-1 group-title="MEXICO",azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 group-title="MEXICO",A+ TV (XHTIT-TDT)
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca America (XHAS-TDT)
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 #EXTINF:-1 group-title="MEXICO",canal 5
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1 group-title="MEXICO",canal 12 televisa
@@ -21,11 +25,6 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1 group-title="MEXICO",imagen multicast
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
-#EXTINF:-1 group-title="MEXICO",
-
-#EXTINF:-1 group-title="MEXICO",
-
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 internacional"  group-title="MEXICO",CANAL 11 internacional
@@ -62,14 +61,12 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h"  group-title="ESPANA",24h
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h 576"  group-title="ESPANA",24h 576
-http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_main_576.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD2
-http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_main_1080.m3u8
 #EXTINF:-1 group-title="ESPANA",euronews es
 https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA1"  group-title="ESPANA",LA1
