@@ -9,6 +9,23 @@ https://webprod.sipse.com.mx:8080/show/tvcun_low.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 
+#EXTINF:-1 group-title="MEXICO",azteca 1
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
+#EXTINF:-1 group-title="MEXICO",azteca 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 group-title="MEXICO",canal 5
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
+#EXTINF:-1 group-title="MEXICO",canal 12 televisa
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+#EXTINF:-1 group-title="MEXICO",imagen tv
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
+#EXTINF:-1 group-title="MEXICO",imagen multicast
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
+#EXTINF:-1 group-title="MEXICO",
+
+#EXTINF:-1 group-title="MEXICO",
+
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 internacional"  group-title="MEXICO",CANAL 11 internacional
@@ -28,7 +45,7 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="multimedios MTY"  group-title="MEXICO",multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MILENIO"  group-title="MEXICO",MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="foro tv p"  group-title="MEXICO",foro tv p
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="foro tv b"  group-title="MEXICO",foro tv b
@@ -50,7 +67,7 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h 576"  group-title="ESPANA",24h 576
 http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD2
 http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
 #EXTINF:-1 group-title="ESPANA",euronews es
@@ -566,7 +583,8 @@ http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2069617158.m3u8
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 
 
-
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ecuavisa"  group-title="ECUADOR",Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="hechos tv ecuador"  group-title="ECUADOR",hechos tv ecuador
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="rec tv ecuador"  group-title="ECUADOR",rec tv ecuador
@@ -638,6 +656,12 @@ http://185.96.176.139:8080/superone/index.m3u8
 http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="XXX",filmon x 2
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",x-desire
+http://185.226.88.3:1036/live/backup/backup/7.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",x-bungabunga
+http://185.226.88.3:1036/live/backup/backup/8.m3u8
+#EXTINF:-1 tvg-id=" " group-title="XXX",x-bisarre
+http://185.226.88.3:1036/live/backup/backup/9.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anal"  group-title="XXX",Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Big Ass"  group-title="XXX",Big Ass
