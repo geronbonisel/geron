@@ -40,7 +40,8 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",estrella tv
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telemundo"  group-title="MEXICO",telemundo
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="multimedios MTY"  group-title="MEXICO",multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MILENIO"  group-title="MEXICO",MILENIO
@@ -219,8 +220,8 @@ http://live.atresmediainternacional.com/ATRESMEDIA/a3cine-720.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="orbit cable peliculas"  group-title="CINE",orbit cable peliculas
 https://ss3.domint.net:3134/otv_str/orbittv/media_w301356283_4721.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",GOLDEN PREMIER
-http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",teleXitoS
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",retro plus1
