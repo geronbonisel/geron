@@ -47,15 +47,17 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MILENIO"  group-title="MEXICO",MILENIO
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="foro tv p"  group-title="MEXICO",foro tv p
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="foro tv b"  group-title="MEXICO",foro tv b
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-b.m3u8?sd=10&rebase=on
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1 group-title="MEXICO",foro tv opc2
 https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/index.m3u8
+#EXTINF:-1 group-title="MEXICO",foro tv opc3
+https://www.youtube.com/c/NoticierosTelevisa/live
 #EXTINF:-1 group-title="MEXICO",estrella news
 https://estrellanews-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADN40"  group-title="MEXICO",ADN40
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="teleformula"  group-title="MEXICO",teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
@@ -67,7 +69,7 @@ https://rtvelivestreamv3.akamaized.net/24h_main_576.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h HD"  group-title="ESPANA",24h HD2
-https://rtvelivestreamv3.akamaized.net/24h_main_1080.m3u8
+http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
 #EXTINF:-1 group-title="ESPANA",euronews es
 https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA1"  group-title="ESPANA",LA1
@@ -307,7 +309,10 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
-
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="ESTADOS",TVT Televisión Tabasqueña
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.cdnmedia.tv/
+https://liveingesta119.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/chunklist_b750000.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="trc tv campeche"  group-title="ESTADOS",trc tv campeche
 https://reproductor.latin.mx/latin/SRTC/chunklist_w1246804707.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="telemar campeche"  group-title="ESTADOS",telemar campeche
