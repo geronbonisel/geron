@@ -703,8 +703,8 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Threesome"  group-title="XXX",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
 
-
-
+#EXTINF:-1 tvg-id=" " group-title="Deportes",la liga nuevo
+https://akamai2-br.cdn.booyah.live/hls/1000081/81257662.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",wowtv cine
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG
