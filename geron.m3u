@@ -703,14 +703,16 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Threesome"  group-title="XXX",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Deportes",la liga nuevo
-https://akamai2-br.cdn.booyah.live/hls/1000081/81257662.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Deportes",wowtv cine
+#EXTINF:-1 tvg-id=" " group-title="Deportes",telecosta la liga algunos partidos
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",wowtv algunos partidos
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG
-http://23.237.78.54/live-1000/244/playlist.m3u8
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/master.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN ARG 2
-http://23.237.78.54/live-1000/263/playlist.m3u8
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/master.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",directv
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
 #EXTINF:-1 tvg-id=" " group-title="Deportes",DANZ1
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",la liga
