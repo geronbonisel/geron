@@ -298,8 +298,11 @@ http://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="the weather channel"  group-title="NOTICIAS",the weather channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WEATHERNATION"  group-title="NOTICIAS",WEATHERNATION
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 group-title="NOTICIAS",weathernation pluto tv
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:-1 group-title="NOTICIAS",weathernation 480
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="ESTADOS",TVT Televisión Tabasqueña
