@@ -85,7 +85,7 @@ http://91.126.141.13:1935/live/51/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telecinco"  group-title="ESPANA",Telecinco
 http://cdn2.interlibre.net/hls/190/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telecinco 91"  group-title="ESPANA",Telecinco 91
-http://91.126.141.13:1935/live/61/1800-def.m3u8
+http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Sexta"  group-title="ESPANA",La Sexta
 http://cdn2.interlibre.net/hls/151/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Sexta 91"  group-title="ESPANA",La Sexta 91
@@ -744,6 +744,19 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",Sport TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+
 #EXTINF:-1 tvg-id=" " group-title="Deportes",BTSPORTHD_1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",BTSPORTHD_2
