@@ -8,23 +8,52 @@ https://webprod.sipse.com.mx:8080/show/tvcun_low.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIPSE TV MERIDA"  group-title="CANCUN",SIPSE TV MERIDA
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
+#EXTINF:-1 group-title="FUTBOL LA LIGA",beIN SPORTS N
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",GOL ES
+http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",directv sp+ 23
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8?per
+#EXTINF:-1 group-title="FUTBOL LA LIGA",DirecTV Sports
+http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",DirecTV Sports 2
+http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",DIRECTTV_SP2
+http://195.181.163.39:80/ECU-DIRECTTV_SP2/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",DIRECTV+
+http://195.181.163.39:80/DEP_DIRECTV_PLUS/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",Fox Sports
+http://195.181.163.39/DEP_FOX_SPORTS_ARG/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",Fox Sports 2
+http://195.181.163.39/DEP_FOX_SPORTS_2_ARG/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",Fox Sports 3
+http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",FOX Sport premiun
+http://195.181.163.39:80/DEP_FOX_SPORTS_PREM_ARG/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",FOX Sport 2 arg
+http://195.181.163.39:80/DEP_FOX_SPORTS_2_ARG/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN sur 1
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?Richi
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN sur 2
+http://195.181.163.39:80/DEP_ESPN_2_ARG/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN SUR 3
+http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8?per
+#EXTINF:-1 group-title="FUTBOL LA LIGA",Espn 3
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",TDN
+http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",Win Sports+
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",TNT Sports
+http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
 
-#EXTINF:-1 group-title="MEXICO",azteca 1
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
+
+#EXTINF:-1 group-title="MEXICO",Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 group-title="MEXICO",azteca 7
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
-#EXTINF:-1 group-title="MEXICO",A+ TV (XHTIT-TDT)
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca America (XHAS-TDT)
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
+http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
 #EXTINF:-1 group-title="MEXICO",canal 5
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
-#EXTINF:-1 group-title="MEXICO",canal 12 televisa
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
-#EXTINF:-1 group-title="MEXICO",imagen tv
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
-#EXTINF:-1 group-title="MEXICO",imagen multicast
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
+http://195.181.163.39:80/LAT_Canal_5_HD/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 nacional"  group-title="MEXICO",CANAL 11 nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 11 internacional"  group-title="MEXICO",CANAL 11 internacional
