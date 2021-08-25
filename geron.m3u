@@ -712,6 +712,8 @@ http://cdn.adultiptv.net/threesome.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",wowtv algunos partidos
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Deportes",ESPN2 arg
+http://195.181.163.39/DEP_ESPN_2_ARG/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",DANZ1
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Deportes",la liga
