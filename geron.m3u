@@ -8,12 +8,27 @@ https://webprod.sipse.com.mx:8080/show/tvcun_low.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SIPSE TV MERIDA"  group-title="CANCUN",SIPSE TV MERIDA
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
+#EXTINF:-1 group-title="FUTBOL LA LIGA",directv sp+ 23
+http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8?per
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN2
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN3
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",ESPNEXTRA
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPNEXTRA/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",FOXSPORT2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",FOXSPORT3
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8
+#EXTINF:-1 group-title="FUTBOL LA LIGA",FOXSPORTS
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
 #EXTINF:-1 group-title="FUTBOL LA LIGA",beIN SPORTS N
 http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="FUTBOL LA LIGA",GOL ES
 http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8
-#EXTINF:-1 group-title="FUTBOL LA LIGA",directv sp+ 23
-http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/chunks.m3u8?per
+
 #EXTINF:-1 group-title="FUTBOL LA LIGA",DirecTV Sports
 http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
 #EXTINF:-1 group-title="FUTBOL LA LIGA",DirecTV Sports 2
@@ -38,8 +53,8 @@ http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8?Richi
 http://195.181.163.39:80/DEP_ESPN_2_ARG/index.m3u8
 #EXTINF:-1 group-title="FUTBOL LA LIGA",ESPN SUR 3
 http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8?per
-#EXTINF:-1 group-title="FUTBOL LA LIGA",Espn 3
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
+
+
 #EXTINF:-1 group-title="FUTBOL LA LIGA",TDN
 http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8
 #EXTINF:-1 group-title="FUTBOL LA LIGA",Win Sports+
